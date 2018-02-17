@@ -53,15 +53,6 @@
       <li><label for="Other"><input id="Other" type="checkbox">🤷 Other</label></li>
     </ul>
   </div>
-    <div id="map"></div>
-    <script>
-      mapboxgl.accessToken = 'pk.eyJ1IjoiYmxvbmRld2Fsa2VyIiwiYSI6ImNqZGJ4MTd6ajF3NDEzMnBjZ3lmODE1cmkifQ.ADUFpI92HGAsifNhBYhj2Q';
-      var map = new mapboxgl.Map({
-          container: 'map', // container id
-          style: 'mapbox://styles/mapbox/streets-v9', // stylesheet location
-          center: [13.404954, 52.520008], // starting position [lng, lat]
-          zoom: 9 // starting zoom
-      });
-    </script>
+    <div id="root"></div>
   </body>
 </html>
