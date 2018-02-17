@@ -41,7 +41,12 @@ export default class App extends React.Component {
           <Popup
             coordinates={this.state.marker.location}
           >
-            <h1>Popup</h1>
+            <h1>{this.state.marker.name}</h1>
+            <ul>
+              <li>Address: {this.state.marker.address}</li>
+              <li>Industry: {this.state.marker.industry}</li>
+              <li>Technology: {this.state.marker.technology.join(', ')}</li>
+            </ul>
           </Popup>
         )}
       </Map>
