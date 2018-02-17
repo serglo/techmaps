@@ -21,7 +21,7 @@ export default class App extends React.Component {
       <div>
         <div id="filters" className="filters">
           <ul>
-            <li>Techmaps.io 💻🗺️ <br /><a class="addnewbusiness" href="https://sergej5.typeform.com/to/WnqKsS">add new business</a></li>
+            <li>Techmaps.io 💻🗺️ <br /><a class="addnewbusiness" href="https://techmaps.typeform.com/to/WnqKsS">add new business</a></li>
             <li id="toggle"><label htmlFor="filter"><input onChange={() => this.setState({filterVisible: !this.state.filterVisible})} id="filter" type="checkbox" />Filter ⛏</label></li>
             {this.state.filterVisible && <li><label htmlFor="eCommerce"><input onChange={() => this.setState({filter: 'eCommerce'})} id="eCommerce" type="checkbox" />🛒 eCommerce</label></li>}
             {this.state.filterVisible && <li><label htmlFor="AdTech"><input onChange={() => this.setState({filter: 'AdTech'})} id="AdTech" type="checkbox" />📰 AdTech</label></li>}
@@ -40,7 +40,8 @@ export default class App extends React.Component {
           </ul>
         </div>
         <Map
-          style="mapbox://styles/maggo/cjdrs8ju22ole2sp9jhliltms"
+          //style="mapbox://styles/maggo/cjdrs8ju22ole2sp9jhliltms"
+          style="mapbox://styles/mapbox/streets-v9"
           containerStyle={{
             height: "100vh",
             width: "100vw"
