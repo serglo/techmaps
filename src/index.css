@@ -35,10 +35,10 @@ body {
   margin: 4px;
 }
 
-.filters ul li:nth-of-type(1n+3) {
+/*.filters ul li:nth-of-type(1n+3) {
   display: none;
 }
 
 .filters ul li#toggle:checked + li:nth-of-type(1n+3) {
   display: block;
-}
+}*/
