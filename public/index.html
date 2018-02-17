@@ -23,6 +23,7 @@
 
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.css' rel='stylesheet' />
+    <link href="https://fonts.googleapis.com/css?family=Nunito:400,800" rel="stylesheet">
     <style>
       body { margin:0; padding:0; }
       #map { position:absolute; top:0; bottom:0; width:100%; }
@@ -32,25 +33,24 @@
     <noscript>
       You need to enable JavaScript to run this app.
     </noscript>
-  <div id="filter" class="filter">
-    <label>Filters</label>
+  <div id="filters" class="filters">
     <ul>
-      <li><label for="eCommerce"><input id="eCommerce" type="checkbox">eCommerce</label></li>
-      <li><label for="AdTech"><input id="AdTech" type="checkbox">AdTech</label></li>
-      <li><label for="FinTech"><input id="FinTech" type="checkbox">FinTech</label></li>
-      <li><label for="Marketing Solutions"><input id="Marketing Solutions" type="checkbox">Marketing Solutions</label></li>
-      <li><label for="Retail"><input id="Retail" type="checkbox">Retail</label></li>
-      <li><label for="Apps"><input id="Apps" type="checkbox">Apps</label></li>
-      <li><label for="Games"><input id="Games" type="checkbox">Games</label></li>
-      <li><label for="Food Delivery"><input id="Food Delivery" type="checkbox">Food Delivery</label></li>
-      <li><label for="Travel"><input id="Travel" type="checkbox">Travel</label></li>
-      <li><label for="Real Estate"><input id="Real Estate" type="checkbox">Real Estate</label></li>
-      <li><label for="EduTech"><input id="EduTech" type="checkbox">EduTech</label></li>
-      <li><label for="Health"><input id="Health" type="checkbox">Health</label></li>
-      <li><label for="Service"><input id="Service" type="checkbox">Service</label></li>
-      <li><label for="HR"><input id="HR" type="checkbox">HR</label></li>
-      <li><label for="Music"><input id="Music" type="checkbox">Music</label></li>
-      <li><label for="Other"><input id="Other" type="checkbox">Other</label></li>
+      <li>Techmaps.io 💻🗺️</li>
+      <li id="toggle"><label for="filter"><input id="filter" type="checkbox">Filter ⛏</li>
+      <li><label for="eCommerce"><input id="eCommerce" type="checkbox">🛒 eCommerce</label></li>
+      <li><label for="AdTech"><input id="AdTech" type="checkbox">📰 AdTech</label></li>
+      <li><label for="FinTech"><input id="FinTech" type="checkbox">💸 FinTech</label></li>
+      <li><label for="Retail"><input id="Retail" type="checkbox">🛍 Retail</label></li>
+      <li><label for="Games"><input id="Games" type="checkbox">🎮 Games</label></li>
+      <li><label for="Food Delivery"><input id="Food Delivery" type="checkbox">🍕 Food Delivery</label></li>
+      <li><label for="Travel"><input id="Travel" type="checkbox">✈️ Travel</label></li>
+      <li><label for="Real Estate"><input id="Real Estate" type="checkbox">🏠 Real Estate</label></li>
+      <li><label for="EduTech"><input id="EduTech" type="checkbox">🎓 EduTech</label></li>
+      <li><label for="Health"><input id="Health" type="checkbox">❤️ Health</label></li>
+      <li><label for="Service"><input id="Service" type="checkbox">💁 Service</label></li>
+      <li><label for="HR"><input id="HR" type="checkbox">💼 HR</label></li>
+      <li><label for="Music"><input id="Music" type="checkbox">🎧 Music</label></li>
+      <li><label for="Other"><input id="Other" type="checkbox">🤷 Other</label></li>
     </ul>
   </div>
     <div id="map"></div>

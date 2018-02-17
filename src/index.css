@@ -1,3 +1,8 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  color: #6f6f6f;
+}
+
 .marker {
   background-size: cover;
   background-color: red;
@@ -7,12 +12,32 @@
   cursor: pointer;
 }
 
-.filter {
-	z-index: 1337;
-	top:0;
-	left: 0;
-	display: block;
-	position: fixed;
-	width: 300px;
-	background: white;
+.filters {
+  z-index: 1337;
+  top:0;
+  left: 0;
+  display: block;
+  position: fixed;
+  font-weight: 800;
+}
+
+.filters ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+.filters li {
+  float: left;
+  padding: 10px;
+  background: white;
+  border-radius: 4px;
+  margin: 4px;
+}
+
+.filters ul li:nth-of-type(1n+3) {
+  display: none;
+}
+
+.filters ul li#toggle:checked + li:nth-of-type(1n+3) {
+  display: block;
 }
