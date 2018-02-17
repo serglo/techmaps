@@ -1,9 +1,30 @@
 [
   {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [13.387211, 52.513933]
-    }
-  }
+    "id": "mozilla-berlin",
+    "name": "Mozilla Berlin",
+    "industry": "Other",
+    "station": "U-Bhf Schlesisches Tor",
+    "address": "Schlesische Str. 27, 10997 Berlin, Germany",
+    "location": [13.4492571, 52.4994658],
+    "technology": [
+      "Python",
+      "Node.js",
+      "JavaScript",
+      "Swift",
+      "Kotlin"
+    ]
+  },
+  {
+    "id": "helpling-berlin",
+    "name": "Helpling GmbH",
+    "industry": "Service",
+    "station": "Französische Straße",
+    "location": [13.387211, 52.513933],
+    "address": "Jägerstraße 67, 10117 Berlin, Germany",
+    "technology": [
+      "Ruby",
+      "Rails",
+      "React"
+    ]
+  },
 ]
