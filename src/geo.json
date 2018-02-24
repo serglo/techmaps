@@ -207,21 +207,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "lyke",
-        "name": "Lyke",
-        "industry": "ecommerce",
-        "lon": 52.4908884,
-        "lat": 13.6297469,
-        "address": "Grunowstraße 39, 12623 Berlin, Germany"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [13.6297469, 52.4908884]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "mirapodo",
         "name": "Mirapodo",
         "industry": "ecommerce",
