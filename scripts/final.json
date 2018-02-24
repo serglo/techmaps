@@ -1,0 +1,1966 @@
+[
+  {
+    "id": "auctiondata",
+    "name": "Auctiondata",
+    "industry": "eCommerce",
+    "station": "S Tiergarten"
+  },
+  {
+    "id": "bjooli",
+    "name": "Bjooli",
+    "industry": "eCommerce",
+    "station": "U Weinmeisterstr.",
+    "address": "Sophienstraße 33, 10178 Berlin, Germany",
+    "location": [
+      52.5264685,
+      13.3989779
+    ]
+  },
+  {
+    "id": "bonial",
+    "name": "Bonial",
+    "industry": "eCommerce",
+    "station": "U Warschauer Str.",
+    "address": "Warschauer Str. 70A, 10243 Berlin, Germany",
+    "location": [
+      52.5116936,
+      13.4527335
+    ]
+  },
+  {
+    "id": "bonagora",
+    "name": "Bonagora",
+    "industry": "eCommerce",
+    "station": "U Klosterstr.",
+    "address": "Zinnowitzer Str. 8, 10115 Berlin, Germany",
+    "location": [
+      52.5317477,
+      13.3836194
+    ]
+  },
+  {
+    "id": "byebuy",
+    "name": "ByeBuy",
+    "industry": "eCommerce",
+    "station": "U Kochstr.",
+    "address": "Holzmarktstraße 11, 10179 Berlin, Germany",
+    "location": [
+      52.51436210000001,
+      13.4214494
+    ]
+  },
+  {
+    "id": "coffee-circle",
+    "name": "Coffee Circle",
+    "industry": "eCommerce",
+    "station": "S Wedding",
+    "address": "Lindower Str. 18, 13347 Berlin, Germany",
+    "location": [
+      52.5442163,
+      13.3674443
+    ]
+  },
+  {
+    "id": "dawanda",
+    "name": "DaWanda",
+    "industry": "eCommerce",
+    "station": "U Charlottenburg",
+    "address": "Windscheidstraße 18, 10627 Berlin, Germany",
+    "location": [
+      52.5056816,
+      13.2992331
+    ]
+  },
+  {
+    "id": "discounto",
+    "name": "Discounto",
+    "industry": "eCommerce",
+    "station": "S Halensee",
+    "address": "Katharinenstraße 9, 10711 Berlin, Germany",
+    "location": [
+      52.4997176,
+      13.2933024
+    ]
+  },
+  {
+    "id": "erento",
+    "name": "Erento",
+    "industry": "eCommerce",
+    "station": "U Schlesisches Tor",
+    "address": "Wrangelstraße 100, 10997 Berlin, Germany",
+    "location": [
+      52.5017395,
+      13.4347561
+    ]
+  },
+  {
+    "id": "flaconi",
+    "name": "Flaconi",
+    "industry": "eCommerce",
+    "station": "U Moritzplatz",
+    "address": "Franklinstraße 13, 10587 Berlin, Germany",
+    "location": [
+      52.520516,
+      13.327445
+    ]
+  },
+  {
+    "id": "home-24",
+    "name": "Home 24",
+    "industry": "eCommerce",
+    "station": "U Senefelderplatz",
+    "address": "Greifswalder Str. 212-213, 10405 Berlin, Germany",
+    "location": [
+      52.5321601,
+      13.4270243
+    ]
+  },
+  {
+    "id": "junique",
+    "name": "Junique",
+    "industry": "eCommerce",
+    "station": "U Heinrich-Heine-Str.",
+    "address": "Köpenicker Str. 126, 10179 Berlin, Germany",
+    "location": [
+      52.5090673,
+      13.4232941
+    ]
+  },
+  {
+    "id": "kw-commerce",
+    "name": "KW-Commerce",
+    "industry": "eCommerce",
+    "station": "U Mierendorfplatz",
+    "address": "Jägerstraße 41, 10117 Berlin, Germany",
+    "location": [
+      52.51455,
+      13.39698
+    ]
+  },
+  {
+    "id": "lesara",
+    "name": "Lesara",
+    "industry": "eCommerce",
+    "station": "U Eberswalder Str.",
+    "address": "Schicklerstraße 5-7, 10179 Berlin, Germany",
+    "location": [
+      52.516115,
+      13.416378
+    ]
+  },
+  {
+    "id": "lyke",
+    "name": "Lyke",
+    "industry": "eCommerce",
+    "station": "S Oranienburger Str.",
+    "address": "Grunowstraße 39, 12623 Berlin, Germany",
+    "location": [
+      52.4908884,
+      13.6297469
+    ]
+  },
+  {
+    "id": "mirapodo",
+    "name": "Mirapodo",
+    "industry": "eCommerce",
+    "station": "U Kleistpark",
+    "address": "Potsdamer Straße 192, 10783 Berlin, Germany",
+    "location": [
+      52.49111,
+      13.36015
+    ]
+  },
+  {
+    "id": "mister-spex",
+    "name": "Mister Spex",
+    "industry": "eCommerce",
+    "station": "S Greifswalder Str.",
+    "address": "Alexa Shoppingcenter, Grunerstraße 20, 10179 Berlin, Germany",
+    "location": [
+      52.5191435,
+      13.4156384
+    ]
+  },
+  {
+    "id": "modomoto",
+    "name": "Modomoto",
+    "industry": "eCommerce",
+    "station": "U Mehringdamm",
+    "address": "Blücherstraße 22, 10961 Berlin, Germany",
+    "location": [
+      52.4939329,
+      13.3983889
+    ]
+  },
+  {
+    "id": "monoqi",
+    "name": "MONOQI",
+    "industry": "eCommerce",
+    "station": "U Rosenthaler Platz",
+    "address": "Gormannstraße 22, 10119 Berlin, Germany",
+    "location": [
+      52.5279347,
+      13.4047576
+    ]
+  },
+  {
+    "id": "outfiterry",
+    "name": "Outfiterry",
+    "industry": "eCommerce",
+    "station": "U Moritzplatz"
+  },
+  {
+    "id": "urbanara",
+    "name": "Urbanara",
+    "industry": "eCommerce",
+    "station": "U Weinmeisterstr.",
+    "address": "Gipsstraße 10, 10119 Berlin, Germany",
+    "location": [
+      52.526827,
+      13.4009511
+    ]
+  },
+  {
+    "id": "runashop",
+    "name": "RunaShop",
+    "industry": "eCommerce",
+    "station": "U Naturkundemuseum",
+    "address": "Invalidenstraße 112, 10115 Berlin, Germany",
+    "location": [
+      52.5305196,
+      13.3834532
+    ]
+  },
+  {
+    "id": "vaola",
+    "name": "Vaola",
+    "industry": "eCommerce",
+    "station": "U Bernauer Str.",
+    "address": "Chausseestraße 84, 10115 Berlin, Germany",
+    "location": [
+      52.53782,
+      13.37318
+    ]
+  },
+  {
+    "id": "visual-meta",
+    "name": "Visual Meta",
+    "industry": "eCommerce",
+    "station": "U Spittelmarkt",
+    "address": "Alexanderstraße 1-5, 10178 Berlin, Germany",
+    "location": [
+      52.5241046,
+      13.4140515
+    ]
+  },
+  {
+    "id": "watchmaster",
+    "name": "WatchMaster",
+    "industry": "eCommerce",
+    "station": "U Schwartzkopffstr.",
+    "address": "Charlottenstraße 60, 10117 Berlin, Germany",
+    "location": [
+      52.5120043,
+      13.3912501
+    ]
+  },
+  {
+    "id": "wayfair",
+    "name": "Wayfair",
+    "industry": "eCommerce",
+    "station": "U Schlesisches Tor",
+    "address": "Köpenicker Str. 180, 10997 Berlin, Germany",
+    "location": [
+      52.50323299999999,
+      13.4366897
+    ]
+  },
+  {
+    "id": "wine-in-black",
+    "name": "Wine in Black",
+    "industry": "eCommerce",
+    "station": "U Naturkundemuseum",
+    "address": "Friedrichstraße 194-199, 10117 Berlin, Germany",
+    "location": [
+      52.50997,
+      13.389749
+    ]
+  },
+  {
+    "id": "zalando",
+    "name": "Zalando",
+    "industry": "eCommerce",
+    "station": "U Rosa-Luxemburg-Platz",
+    "address": "Mollstraße 1, 10178 Berlin, Germany",
+    "location": [
+      52.5263487,
+      13.4159428
+    ]
+  },
+  {
+    "id": "99chairs",
+    "name": "99chairs",
+    "industry": "eCommerce",
+    "station": "U Naturkundemuseum",
+    "address": "Köpenicker Str. 126, 10179 Berlin, Germany",
+    "location": [
+      52.50909840000001,
+      13.423177
+    ]
+  },
+  {
+    "id": "ad2games",
+    "name": "Ad2Games",
+    "industry": "AdTech",
+    "station": "S Hackescher Markt",
+    "address": "Rosenstraße 17, 10178 Berlin, Germany",
+    "location": [
+      52.521412,
+      13.405186
+    ]
+  },
+  {
+    "id": "adjust",
+    "name": "Adjust",
+    "industry": "AdTech",
+    "station": "U Senefelderplatz",
+    "address": "Saarbrücker Str. 37A, 10405 Berlin, Germany",
+    "location": [
+      52.5283101,
+      13.4154047
+    ]
+  },
+  {
+    "id": "adsquare",
+    "name": "Adsquare",
+    "industry": "AdTech",
+    "station": "U Rosa-Luxemburg-Platz",
+    "address": "Saarbrücker Str. 36, 10405 Berlin, Germany",
+    "location": [
+      52.52912449999999,
+      13.4160071
+    ]
+  },
+  {
+    "id": "applause",
+    "name": "Applause",
+    "industry": "AdTech",
+    "station": "U Schlesisches Tor",
+    "address": "Obentrautstraße 72, 10963 Berlin, Germany",
+    "location": [
+      52.497624,
+      13.3804301
+    ]
+  },
+  {
+    "id": "applift",
+    "name": "AppLift",
+    "industry": "AdTech",
+    "station": "S Hackeschermarkt",
+    "address": "Rosenstraße 17, 10178 Berlin, Germany",
+    "location": [
+      52.521412,
+      13.405186
+    ]
+  },
+  {
+    "id": "crobo",
+    "name": "crobo",
+    "industry": "AdTech",
+    "station": "U Senefelderplatz",
+    "address": "Schwedter Str. 263, 10119 Berlin, Germany",
+    "location": [
+      52.533275,
+      13.4102929
+    ]
+  },
+  {
+    "id": "contiamo",
+    "name": "Contiamo",
+    "industry": "AdTech",
+    "station": "U Bülowstr.",
+    "address": "Stresemannstraße, 10781 Berlin, Germany",
+    "location": [
+      52.49640300000001,
+      13.3578116
+    ]
+  },
+  {
+    "id": "datapine",
+    "name": "Datapine",
+    "industry": "AdTech",
+    "station": "U Görlitzer Bhf",
+    "address": "Friedelstraße 27, 12047 Berlin, Germany",
+    "location": [
+      52.492355,
+      13.42858
+    ]
+  },
+  {
+    "id": "deltamethod",
+    "name": "DeltaMethod",
+    "industry": "AdTech",
+    "station": "S Hackescher Markt",
+    "address": "Oranienstraße 185, 10999 Berlin, Germany",
+    "location": [
+      52.5235627,
+      13.3989295
+    ]
+  },
+  {
+    "id": "fyber",
+    "name": "Fyber",
+    "industry": "AdTech",
+    "station": "S Oranienburger Str.",
+    "address": "Johannisstraße 20, 10117 Berlin, Germany",
+    "location": [
+      52.52471,
+      13.38885
+    ]
+  },
+  {
+    "id": "glispa",
+    "name": "glispa",
+    "industry": "AdTech",
+    "station": "S Schönhauser Allee",
+    "address": "Sonnenburger Str. 73, 10437 Berlin, Germany",
+    "location": [
+      52.5484664,
+      13.4071626
+    ]
+  },
+  {
+    "id": "gamegenetics",
+    "name": "GameGenetics",
+    "industry": "AdTech",
+    "station": "U Rosa-Luxemburg-Platz",
+    "address": "Klosterstraße 62, 10179 Berlin, Germany",
+    "location": [
+      52.5161034,
+      13.4126544
+    ]
+  },
+  {
+    "id": "iconpeak",
+    "name": "IconPeak",
+    "industry": "AdTech",
+    "station": "U Naturkundemuseum",
+    "address": "Invalidenstraße 112, 10115 Berlin, Germany",
+    "location": [
+      52.53052,
+      13.383453
+    ]
+  },
+  {
+    "id": "liquidm",
+    "name": "LiquidM",
+    "industry": "AdTech",
+    "station": "S Schönhauser Allee",
+    "address": "Rosenthaler Str. 36, 10178 Berlin, Germany",
+    "location": [
+      52.5246479,
+      13.402667
+    ]
+  },
+  {
+    "id": "mapegy",
+    "name": "Mapegy",
+    "industry": "AdTech",
+    "station": "U Ernst-Reuter-Platz",
+    "address": "Bismarckstraße 10-12, 10625 Berlin, Germany",
+    "location": [
+      52.512557,
+      13.316718
+    ]
+  },
+  {
+    "id": "plista",
+    "name": "Plista",
+    "industry": "AdTech",
+    "station": "U Klosterstr.",
+    "address": "Torstraße 33, 10119 Berlin, Germany",
+    "location": [
+      52.528363,
+      13.412665
+    ]
+  },
+  {
+    "id": "roqad",
+    "name": "Roq.ad",
+    "industry": "AdTech",
+    "station": "U Schönleinstr.",
+    "address": "Mehringdamm 33, 10961 Berlin, Germany",
+    "location": [
+      52.4933847,
+      13.3887912
+    ]
+  },
+  {
+    "id": "remerge",
+    "name": "Remerge",
+    "industry": "AdTech",
+    "station": "S Oranienburger Str.",
+    "address": "Oranienburger Str. 27, 10117 Berlin, Germany",
+    "location": [
+      52.52464,
+      13.39503
+    ]
+  },
+  {
+    "id": "sociomantic",
+    "name": "Sociomantic",
+    "industry": "AdTech",
+    "station": "U Kottbusser Tor",
+    "address": "Paul-Lincke-Ufer 39-40, 10999 Berlin, Germany",
+    "location": [
+      52.496069,
+      13.4220906
+    ]
+  },
+  {
+    "id": "trademob",
+    "name": "Trademob",
+    "industry": "AdTech",
+    "station": "U Naturkundemuseum",
+    "address": "Novalisstraße 10, 10115 Berlin, Germany",
+    "location": [
+      52.5289252,
+      13.3880405
+    ]
+  },
+  {
+    "id": "webtrekk",
+    "name": "Webtrekk",
+    "industry": "AdTech",
+    "station": "U Naturkundemuseum",
+    "address": "Robert-Koch-Platz 4, 10115 Berlin, Germany",
+    "location": [
+      52.5278072,
+      13.3803064
+    ]
+  },
+  {
+    "id": "yoc",
+    "name": "YOC",
+    "industry": "AdTech",
+    "station": "U Senefelderplatz",
+    "address": "Greifswalder Str. 212, 10405 Berlin, Germany",
+    "location": [
+      52.5321601,
+      13.4270243
+    ]
+  },
+  {
+    "id": "barzahlen",
+    "name": "Barzahlen",
+    "industry": "FinTech",
+    "station": "U Märkisches Museum",
+    "address": "Wallstraße 14a, 10179 Berlin, Germany",
+    "location": [
+      52.5110654,
+      13.4054234
+    ]
+  },
+  {
+    "id": "billpay",
+    "name": "BillPay",
+    "industry": "FinTech",
+    "station": "U Naturkundemuseum",
+    "address": "Zinnowitzer Str. 1, 10115 Berlin, Germany",
+    "location": [
+      52.531653,
+      13.3827421
+    ]
+  },
+  {
+    "id": "bergfurst",
+    "name": "Bergfürst",
+    "industry": "FinTech",
+    "station": "U Oranienburger Tor",
+    "address": "Schumannstraße 18, 10117 Berlin, Germany",
+    "location": [
+      52.523757,
+      13.380142
+    ]
+  },
+  {
+    "id": "bonify",
+    "name": "Bonify",
+    "industry": "FinTech",
+    "station": "U Prinzenstr.",
+    "address": "Köpenicker Str. 154, 10997 Berlin, Germany",
+    "location": [
+      52.506088,
+      13.430895
+    ]
+  },
+  {
+    "id": "brickgate",
+    "name": "Brickgate",
+    "industry": "FinTech",
+    "station": "U Schwartzkopffstr.",
+    "address": "Wöhlertstraße 12-13, 10115 Berlin, Germany",
+    "location": [
+      52.537386,
+      13.378824
+    ]
+  },
+  {
+    "id": "cashboard",
+    "name": "Cashboard",
+    "industry": "FinTech",
+    "station": "U Naturkundemuseum",
+    "address": "Invalidenstraße 112, 10115 Berlin, Germany",
+    "location": [
+      52.5305196,
+      13.3834532
+    ]
+  },
+  {
+    "id": "finleap",
+    "name": "FinLeap",
+    "industry": "FinTech",
+    "station": "U Alexanderplatz",
+    "address": "Hardenbergstraße 32, 10623 Berlin, Germany",
+    "location": [
+      52.5080949,
+      13.3293017
+    ]
+  },
+  {
+    "id": "liqid",
+    "name": "LIQID",
+    "industry": "FinTech",
+    "station": "U Kurfüstendamm",
+    "address": "Kurfürstendamm 177, 10707 Berlin, Germany",
+    "location": [
+      52.4999506,
+      13.3106105
+    ]
+  },
+  {
+    "id": "mambu",
+    "name": "Mambu",
+    "industry": "FinTech",
+    "station": "U Klosterstr."
+  },
+  {
+    "id": "number26",
+    "name": "Number26",
+    "industry": "FinTech",
+    "station": "U Hausvogteiplatz",
+    "address": "Klosterstraße 62, 10179 Berlin, Germany",
+    "location": [
+      52.516116,
+      13.412618
+    ]
+  },
+  {
+    "id": "optiopay",
+    "name": "OptioPay",
+    "industry": "FinTech",
+    "station": "U Warscahuer Str.",
+    "address": "An den Treptowers 1, 12435 Berlin, Germany",
+    "location": [
+      52.4954784,
+      13.4619499
+    ]
+  },
+  {
+    "id": "orderbird",
+    "name": "Orderbird",
+    "industry": "FinTech",
+    "station": "U Moritzplatz",
+    "address": "Ritterstraße 12-14, 10969 Berlin, Germany",
+    "location": [
+      52.5018616,
+      13.4112619
+    ]
+  },
+  {
+    "id": "payleven",
+    "name": "Payleven",
+    "industry": "FinTech",
+    "station": "U Eberswalder Str.",
+    "address": "Saarbrücker Str. 20/21, 10405 Berlin, Germany",
+    "location": [
+      52.529822,
+      13.4119518
+    ]
+  },
+  {
+    "id": "raisin",
+    "name": "Raisin",
+    "industry": "FinTech",
+    "station": "U Senefelderplatz",
+    "address": "Immanuelkirchstraße 14A, 10405 Berlin, Germany",
+    "location": [
+      52.5317005,
+      13.4260406
+    ]
+  },
+  {
+    "id": "savedo",
+    "name": "Savedo",
+    "industry": "FinTech",
+    "station": "U Weinmeisterstr.",
+    "address": "Dircksenstraße 41, 10178 Berlin, Germany",
+    "location": [
+      52.5238769,
+      13.4066799
+    ]
+  },
+  {
+    "id": "smava",
+    "name": "Smava",
+    "industry": "FinTech",
+    "station": "U Frankfurter Tor",
+    "address": "Kopernikusstraße 35, 10243 Berlin, Germany",
+    "location": [
+      52.51128,
+      13.44992
+    ]
+  },
+  {
+    "id": "inventorum",
+    "name": "Inventorum",
+    "industry": "Retail",
+    "station": "U Voltastr.",
+    "address": "Voltastraße 5, 13355 Berlin, Germany",
+    "location": [
+      52.5417089,
+      13.3891794
+    ]
+  },
+  {
+    "id": "itembase",
+    "name": "Itembase",
+    "industry": "Retail",
+    "station": "S Anhalter Bhf",
+    "address": "Wilhelmstraße 118, 10963 Berlin, Germany",
+    "location": [
+      52.5038661,
+      13.3862756
+    ]
+  },
+  {
+    "id": "kaufda",
+    "name": "KaufDa",
+    "industry": "Retail",
+    "station": "U Frankfurter Tor",
+    "address": "Warschauer Str. 70A, 10243 Berlin, Germany",
+    "location": [
+      52.5116936,
+      13.4527335
+    ]
+  },
+  {
+    "id": "kauferportal",
+    "name": "Käuferportal",
+    "industry": "Retail",
+    "station": "U Französische Str."
+  },
+  {
+    "id": "locafox",
+    "name": "Locafox",
+    "industry": "Retail",
+    "station": "U Kottbusser Tor",
+    "address": "Oudenarder Str. 16, 13347 Berlin, Germany",
+    "location": [
+      52.5533009,
+      13.3605023
+    ]
+  },
+  {
+    "id": "minodes",
+    "name": "Minodes",
+    "industry": "Retail",
+    "station": "U Kochstr.",
+    "address": "Charlottenstraße 4, 10969 Berlin, Germany",
+    "location": [
+      52.5067072,
+      13.3934851
+    ]
+  },
+  {
+    "id": "newstore",
+    "name": "Newstore",
+    "industry": "Retail",
+    "station": "S Treptower Park",
+    "address": "Schiffbauerdamm 22, 10117 Berlin, Germany",
+    "location": [
+      52.5207321,
+      13.3819002
+    ]
+  },
+  {
+    "id": "products-up",
+    "name": "Products Up",
+    "industry": "Retail",
+    "station": "U Oranienburger Tor",
+    "address": "Alex-Wedding-Straße 5, 10178 Berlin, Germany",
+    "location": [
+      52.5247282,
+      13.4148786
+    ]
+  },
+  {
+    "id": "qipu",
+    "name": "Qipu",
+    "industry": "Retail",
+    "station": "U Rosenthaler Platz",
+    "address": "Greifswalder Str. 212, 10405 Berlin, Germany",
+    "location": [
+      52.5321601,
+      13.4270243
+    ]
+  },
+  {
+    "id": "basilicom",
+    "name": "Basilicom",
+    "industry": "Marketing Solutions",
+    "station": "U Schönleinstr.",
+    "address": "Sickingenstraße 70, 10553 Berlin, Germany",
+    "location": [
+      52.5315849,
+      13.3246061
+    ]
+  },
+  {
+    "id": "crossengage",
+    "name": "CrossEngage",
+    "industry": "Marketing Solutions",
+    "station": "S Nordbahnhof",
+    "address": "Bertha-Benz-Straße 5, 10557 Berlin, Germany",
+    "location": [
+      52.5231427,
+      13.3666025
+    ]
+  },
+  {
+    "id": "contentful",
+    "name": "Contentful",
+    "industry": "Marketing Solutions",
+    "station": "U Moritzplatz",
+    "address": "Ritterstraße 12, 10969 Berlin, Germany",
+    "location": [
+      52.5020754,
+      13.4111829
+    ]
+  },
+  {
+    "id": "dc-media-networks",
+    "name": "DC Media Networks",
+    "industry": "Marketing Solutions",
+    "station": "U Eberswalder Str.",
+    "address": "Breite Str. 26A, 13187 Berlin, Germany",
+    "location": [
+      52.5691595,
+      13.403198
+    ]
+  },
+  {
+    "id": "digitaleseiten",
+    "name": "DigitaleSeiten",
+    "industry": "Marketing Solutions",
+    "station": "U Rosa-Luxemburg-Platz",
+    "address": "Potsdamer Straße 7, 10785 Berlin, Germany",
+    "location": [
+      52.50891,
+      13.37291
+    ]
+  },
+  {
+    "id": "fanpage-karma",
+    "name": "Fanpage Karma",
+    "industry": "Marketing Solutions",
+    "station": "U Kottbusser Tor",
+    "address": "Oranienstraße 188, 10999 Berlin, Germany",
+    "location": [
+      52.50040139999999,
+      13.4218367
+    ]
+  },
+  {
+    "id": "kyto",
+    "name": "Kyto",
+    "industry": "Marketing Solutions",
+    "station": "U Oranienburger Tor",
+    "address": "Linienstraße 126, 10115 Berlin, Germany",
+    "location": [
+      52.5267858,
+      13.3897725
+    ]
+  },
+  {
+    "id": "linkbird",
+    "name": "LinkBird",
+    "industry": "Marketing Solutions",
+    "station": "U Kurfürstendamm",
+    "address": "Knesebeckstraße 59-61, 10719 Berlin, Germany",
+    "location": [
+      52.5007826,
+      13.3223918
+    ]
+  },
+  {
+    "id": "newsletter2go",
+    "name": "Newsletter2Go",
+    "industry": "Marketing Solutions",
+    "station": "U Ernst-Reuter-Platz",
+    "address": "Nürnberger Str. 8, 10787 Berlin, Germany",
+    "location": [
+      52.50402880000001,
+      13.3398236
+    ]
+  },
+  {
+    "id": "optivo",
+    "name": "Optivo",
+    "industry": "Marketing Solutions",
+    "station": "U Spittelmarkt",
+    "address": "Wallstraße 16, 10179 Berlin, Germany",
+    "location": [
+      52.5111861,
+      13.4065491
+    ]
+  },
+  {
+    "id": "uberall",
+    "name": "Uberall",
+    "industry": "Marketing Solutions",
+    "station": "U Oranienburger Tor",
+    "address": "Oranienburger Str. 66, 10117 Berlin, Germany",
+    "location": [
+      52.5251165,
+      13.3915718
+    ]
+  },
+  {
+    "id": "ubermetrics",
+    "name": "UberMetrics",
+    "industry": "Marketing Solutions",
+    "station": "U Alexanderplatz",
+    "address": "Kronenstraße 1, 10117 Berlin, Germany",
+    "location": [
+      52.51087,
+      13.38716
+    ]
+  },
+  {
+    "id": "styla",
+    "name": "Styla",
+    "industry": "Marketing Solutions",
+    "station": "U Eberswalder Str.",
+    "address": "Schwedter Str. 36A, 10435 Berlin, Germany",
+    "location": [
+      52.53783,
+      13.40645
+    ]
+  },
+  {
+    "id": "zanox",
+    "name": "Zanox",
+    "industry": "Marketing Solutions",
+    "station": "U Warschauerstr.",
+    "address": "Eichhornstraße 3, 10785 Berlin, Germany",
+    "location": [
+      52.50636859999999,
+      13.3732019
+    ]
+  },
+  {
+    "id": "aeria-games",
+    "name": "Aeria Games",
+    "industry": "Games",
+    "station": "U Schlesisches Tor",
+    "address": "Schlesische Str. 27, 10997 Berlin, Germany",
+    "location": [
+      52.49944559999999,
+      13.4492543
+    ]
+  },
+  {
+    "id": "crowdpark",
+    "name": "Crowdpark",
+    "industry": "Games",
+    "station": "U Schönleinstr.",
+    "address": "Maybachufer 48-51, 12045 Berlin, Germany",
+    "location": [
+      52.4901442,
+      13.435935
+    ]
+  },
+  {
+    "id": "fox-and-sheep",
+    "name": "Fox & Sheep",
+    "industry": "Games",
+    "station": "U Rosenthaler Platz",
+    "address": "Linienstraße 130, 10115 Berlin, Germany",
+    "location": [
+      52.5267,
+      13.3887301
+    ]
+  },
+  {
+    "id": "gameduell",
+    "name": "GameDuell",
+    "industry": "Games",
+    "station": "U Hausvogteiplatz",
+    "address": "Taubenstraße 24-25, 10117 Berlin, Germany",
+    "location": [
+      52.513353,
+      13.395566
+    ]
+  },
+  {
+    "id": "kabam",
+    "name": "Kabam",
+    "industry": "Games",
+    "station": "U Senefelderplatz",
+    "address": "Greifswalder Str. 212, 10405 Berlin, Germany",
+    "location": [
+      52.5321601,
+      13.4270243
+    ]
+  },
+  {
+    "id": "kling",
+    "name": "Kling",
+    "industry": "Games",
+    "station": "U Französische Str.",
+    "address": "Mierendorffstraße 23, 10589 Berlin, Germany",
+    "location": [
+      52.52413139999999,
+      13.3022718
+    ]
+  },
+  {
+    "id": "softgames",
+    "name": "Softgames",
+    "industry": "Games",
+    "station": "U Rosa-Luxemburg-Platz",
+    "address": "Torstraße 35, 10119 Berlin, Germany",
+    "location": [
+      52.52836139999999,
+      13.4124563
+    ]
+  },
+  {
+    "id": "treasurehuntstudios",
+    "name": "TreasureHuntStudios",
+    "industry": "Games",
+    "station": "U Oranienburger Tor",
+    "address": "Skalitzer Str. 85-86, 10997 Berlin, Germany",
+    "location": [
+      52.50031999999999,
+      13.4364801
+    ]
+  },
+  {
+    "id": "wooga",
+    "name": "Wooga",
+    "industry": "Games",
+    "station": "U Rosa-Luxemburg-Platz"
+  },
+  {
+    "id": "dubsmash",
+    "name": "Dubsmash",
+    "industry": "App",
+    "station": "U Weinmeisterstr.",
+    "address": "Karl-Liebknecht-Str. 5, 10178 Berlin, Germany",
+    "location": [
+      52.519909,
+      13.4039897
+    ]
+  },
+  {
+    "id": "eyeem",
+    "name": "EyeEm",
+    "industry": "App",
+    "station": "U Kottbusser Tor",
+    "address": "Kohlfurter Str. 41/43, 10999 Berlin, Germany",
+    "location": [
+      52.49701229999999,
+      13.41861
+    ]
+  },
+  {
+    "id": "kitchen-stories",
+    "name": "Kitchen Stories",
+    "industry": "App",
+    "station": "U Görlitzer Bhf",
+    "address": "Muskauer Str. 43, 10997 Berlin, Germany",
+    "location": [
+      52.5020047,
+      13.4295735
+    ]
+  },
+  {
+    "id": "memorado",
+    "name": "Memorado",
+    "industry": "App",
+    "station": "U Kottbusser Tor",
+    "address": "Paul-Lincke-Ufer 39/40, 10999 Berlin, Germany",
+    "location": [
+      52.4966706,
+      13.4225608
+    ]
+  },
+  {
+    "id": "mytaxi",
+    "name": "MyTaxi",
+    "industry": "App",
+    "station": "U Rosa-Luxemburg-Platz",
+    "address": "Alt-Tempelhof 22, 12103 Berlin, Germany",
+    "location": [
+      52.46631,
+      13.38496
+    ]
+  },
+  {
+    "id": "onefootball",
+    "name": "Onefootball",
+    "industry": "App",
+    "station": "U Greifswalder Str.",
+    "address": "Greifswalder Str. 212, 10405 Berlin, Germany",
+    "location": [
+      52.5321601,
+      13.4270243
+    ]
+  },
+  {
+    "id": "parktag",
+    "name": "ParkTag",
+    "industry": "App",
+    "station": "S Charlottenburg",
+    "address": "Kantstraße 81, 10627 Berlin, Germany",
+    "location": [
+      52.50727,
+      13.29686
+    ]
+  },
+  {
+    "id": "tvsmiles",
+    "name": "TvSmiles",
+    "industry": "App",
+    "station": "U Kochstr.",
+    "address": "Mommsenstraße 11, 10629 Berlin, Germany",
+    "location": [
+      52.50334,
+      13.31608
+    ]
+  },
+  {
+    "id": "clue",
+    "name": "Clue",
+    "industry": "Health",
+    "station": "U Kottbusser Tor",
+    "address": "Adalbertstraße 8, 10999 Berlin, Germany",
+    "location": [
+      52.500417,
+      13.419501
+    ]
+  },
+  {
+    "id": "mediteo",
+    "name": "Mediteo",
+    "industry": "Health",
+    "station": "U Hausvogteiplatz"
+  },
+  {
+    "id": "meedoc",
+    "name": "MeeDoc",
+    "industry": "Health",
+    "station": "U Hausvogteiplatz",
+    "address": "Oberwallstraße 10, 10117 Berlin, Germany",
+    "location": [
+      52.5134602,
+      13.3971355
+    ]
+  },
+  {
+    "id": "medexo",
+    "name": "Medexo",
+    "industry": "Health",
+    "station": "S Schöneberg",
+    "address": "Hauptstraße 117, 10827 Berlin, Germany",
+    "location": [
+      52.4823574,
+      13.3495234
+    ]
+  },
+  {
+    "id": "medigo",
+    "name": "Medigo",
+    "industry": "Health",
+    "station": "U Rosenthaler Platz",
+    "address": "Rosenthaler Str. 13, 10119 Berlin, Germany",
+    "location": [
+      52.5272158,
+      13.4030494
+    ]
+  },
+  {
+    "id": "neuronation",
+    "name": "NeuroNation",
+    "industry": "Health",
+    "station": "U Moritzplatz",
+    "address": "Ritterstraße 3, 10969 Berlin, Germany",
+    "location": [
+      52.50089759999999,
+      13.412989
+    ]
+  },
+  {
+    "id": "sanubi",
+    "name": "Sanubi",
+    "industry": "Health",
+    "station": "S Landsberger Allee",
+    "address": "Bülowstraße 66, 10783 Berlin, Germany",
+    "location": [
+      52.4964281,
+      13.367232
+    ]
+  },
+  {
+    "id": "babbel",
+    "name": "Babbel",
+    "industry": "EduTech",
+    "station": "U Gneisenaustr.",
+    "address": "Max-Beer-Straße 2, 10119 Berlin, Germany",
+    "location": [
+      52.5246187,
+      13.4082086
+    ]
+  },
+  {
+    "id": "blinkist",
+    "name": "Blinkist",
+    "industry": "EduTech",
+    "station": "S Sonnenallee",
+    "address": "Sonnenallee 223, 12059 Berlin, Germany",
+    "location": [
+      52.4735112,
+      13.4572666
+    ]
+  },
+  {
+    "id": "iversity",
+    "name": "Iversity",
+    "industry": "EduTech",
+    "station": "S Schönhauser Allee",
+    "address": "Krausnickstraße 16, 10115 Berlin, Germany",
+    "location": [
+      52.5254439,
+      13.3974704
+    ]
+  },
+  {
+    "id": "klab-edumedia",
+    "name": "K.Lab Edumedia",
+    "industry": "EduTech",
+    "station": "U Karl-Marx-Str.",
+    "address": "Karl-Marx-Straße 100, 12043 Berlin, Germany",
+    "location": [
+      52.4794012,
+      13.4369415
+    ]
+  },
+  {
+    "id": "research-gate",
+    "name": "Research Gate",
+    "industry": "EduTech",
+    "station": "U Naturkundemuseum",
+    "address": "Invalidenstraße 115, 10115 Berlin, Germany",
+    "location": [
+      52.53073269999999,
+      13.3844534
+    ]
+  },
+  {
+    "id": "skive",
+    "name": "Skive",
+    "industry": "EduTech",
+    "station": "S Sonnenallee",
+    "address": "Sonnenallee 223A, 12059 Berlin, Germany",
+    "location": [
+      52.47399,
+      13.4574199
+    ]
+  },
+  {
+    "id": "sofatutor",
+    "name": "SofaTutor",
+    "industry": "EduTech",
+    "station": "U Frankfurter Tor",
+    "address": "Grünberger Str. 54, 10245 Berlin, Germany",
+    "location": [
+      52.51181829999999,
+      13.4558557
+    ]
+  },
+  {
+    "id": "abroadwith",
+    "name": "AbroadWith",
+    "industry": "Travel",
+    "station": "U Moritzplatz",
+    "address": "Weserstraße 14, 10247 Berlin, Germany",
+    "location": [
+      52.5099664,
+      13.4669373
+    ]
+  },
+  {
+    "id": "getyourguide",
+    "name": "GetYourGuide",
+    "industry": "Travel",
+    "station": "S Greifswalder Str.",
+    "address": "Erich-Weinert-Straße 145, 10409 Berlin, Germany",
+    "location": [
+      52.5439763,
+      13.4404115
+    ]
+  },
+  {
+    "id": "goeuro",
+    "name": "GoEuro",
+    "industry": "Travel",
+    "station": "U Senefelderplatz",
+    "address": "Schönhauser Allee 180, 10119 Berlin, Germany",
+    "location": [
+      52.53085009999999,
+      13.4109222
+    ]
+  },
+  {
+    "id": "guestbird",
+    "name": "Guestbird",
+    "industry": "Travel",
+    "station": "U Schwartzkopffstr."
+  },
+  {
+    "id": "holidaypirates",
+    "name": "HolidayPirates",
+    "industry": "Travel",
+    "station": "U Jannowitzbrücke",
+    "address": "Wallstraße 59, 10179 Berlin, Germany",
+    "location": [
+      52.51349399999999,
+      13.412735
+    ]
+  },
+  {
+    "id": "suitepad",
+    "name": "SuitePad",
+    "industry": "Travel",
+    "station": "U Kochstr.",
+    "address": "Friedrichstraße 224, 10969 Berlin, Germany",
+    "location": [
+      52.50416999999999,
+      13.39051
+    ]
+  },
+  {
+    "id": "wimdu",
+    "name": "Wimdu",
+    "industry": "Travel",
+    "station": "U Voltastr.",
+    "address": "Voltastraße 5, 13355 Berlin, Germany",
+    "location": [
+      52.5418972,
+      13.3896349
+    ]
+  },
+  {
+    "id": "zizoo",
+    "name": "Zizoo",
+    "industry": "Travel",
+    "station": "U Hallesches Tor",
+    "address": "Zossener Str. 56, 10961 Berlin, Germany",
+    "location": [
+      52.4951776,
+      13.3953358
+    ]
+  },
+  {
+    "id": "bonativo",
+    "name": "Bonativo",
+    "industry": "Food Delivery",
+    "station": "U Kottbusser Tor",
+    "address": "Friedrichstraße 133, 10117 Berlin, Germany",
+    "location": [
+      52.5235687,
+      13.3872835
+    ]
+  },
+  {
+    "id": "deliveroo",
+    "name": "Deliveroo",
+    "industry": "Food Delivery",
+    "station": "U Adenauerplatz",
+    "address": "Bregenzer Str. 3, 10707 Berlin, Germany",
+    "location": [
+      52.49714220000001,
+      13.3131286
+    ]
+  },
+  {
+    "id": "delivery-hero",
+    "name": "Delivery Hero",
+    "industry": "Food Delivery",
+    "station": "U Stadtmitte",
+    "address": "70 Oranienburger Straße, 10117 Berlin, Germany",
+    "location": [
+      52.5247258,
+      13.3930329
+    ]
+  },
+  {
+    "id": "eatfirst",
+    "name": "EatFirst",
+    "industry": "Food Delivery",
+    "station": "U Senefelderplatz",
+    "address": "Alexanderstraße 1, 10178 Berlin, Germany",
+    "location": [
+      52.52417,
+      13.4138971
+    ]
+  },
+  {
+    "id": "foodora",
+    "name": "Foodora",
+    "industry": "Food Delivery",
+    "station": "S Ostkreuz",
+    "address": "Oranienburger Str. 70, 10117 Berlin, Germany",
+    "location": [
+      52.52469869999999,
+      13.3929251
+    ]
+  },
+  {
+    "id": "foodpanda",
+    "name": "Foodpanda",
+    "industry": "Food Delivery",
+    "station": "S Ostkreuz",
+    "address": "Oranienburger Str. 70, 10117 Berlin, Germany",
+    "location": [
+      52.52469869999999,
+      13.3929251
+    ]
+  },
+  {
+    "id": "hellofresh",
+    "name": "HelloFresh",
+    "industry": "Food Delivery",
+    "station": "U Rosa-Luxemburg-Platz"
+  },
+  {
+    "id": "marley-spoon",
+    "name": "Marley Spoon",
+    "industry": "Food Delivery",
+    "station": "U Kottbusser Tor",
+    "address": "Paul-Lincke-Ufer 39, 10999 Berlin, Germany",
+    "location": [
+      52.49623,
+      13.4221
+    ]
+  },
+  {
+    "id": "auto1-group",
+    "name": "Auto1 Group",
+    "industry": "Service",
+    "station": "S Schönhauser Allee",
+    "address": "Bergmannstraße 72, 10961 Berlin, Germany",
+    "location": [
+      52.4890507,
+      13.3980086
+    ]
+  },
+  {
+    "id": "blacklane",
+    "name": "Blacklane",
+    "industry": "Service",
+    "station": "S Julius-Leber-Brücke"
+  },
+  {
+    "id": "book-a-tiger",
+    "name": "Book a Tiger",
+    "industry": "Service",
+    "station": "U Jannowitzbrücke",
+    "address": "Brückenstraße 5A, 10179 Berlin, Germany",
+    "location": [
+      52.5130251,
+      13.4178763
+    ]
+  },
+  {
+    "id": "carmudi",
+    "name": "Carmudi",
+    "industry": "Service",
+    "station": "U Görlitzer Bhf",
+    "address": "Friedrichstraße 133, 10117 Berlin, Germany",
+    "location": [
+      52.5235687,
+      13.3872835
+    ]
+  },
+  {
+    "id": "helpling",
+    "name": "Helpling",
+    "industry": "Service",
+    "station": "U Französische Str."
+  },
+  {
+    "id": "service-parnter-one",
+    "name": "Service Parnter ONE",
+    "industry": "Service",
+    "station": "U Senefelderplatz",
+    "address": "Winsstraße 62, 10405 Berlin, Germany",
+    "location": [
+      52.5332181,
+      13.4244831
+    ]
+  },
+  {
+    "id": "thermondo",
+    "name": "Thermondo",
+    "industry": "Service",
+    "station": "U Bernauer Str.",
+    "address": "Brunnenstraße 153, 10115 Berlin, Germany",
+    "location": [
+      52.53587,
+      13.39725
+    ]
+  },
+  {
+    "id": "vimcar",
+    "name": "Vimcar",
+    "industry": "Service",
+    "station": "U Eberswalder Str.",
+    "address": "Skalitzer Str. 104, 10997 Berlin, Germany",
+    "location": [
+      52.499465,
+      13.4276
+    ]
+  },
+  {
+    "id": "comatch",
+    "name": "COMATCH",
+    "industry": "HR",
+    "station": "U Eberswalder Str.",
+    "address": "Schinkestraße 20, 12047 Berlin, Germany",
+    "location": [
+      52.49445,
+      13.4230699
+    ]
+  },
+  {
+    "id": "gohiring",
+    "name": "GoHiring",
+    "industry": "HR",
+    "station": "U Schönleinstr.",
+    "address": "Friedelstraße 40, 12047 Berlin, Germany",
+    "location": [
+      52.4918111,
+      13.4275503
+    ]
+  },
+  {
+    "id": "honeypot",
+    "name": "HONEYPOT",
+    "industry": "HR",
+    "station": "U Eberswalder Str.",
+    "address": "Schönhauser Allee 45, 10435 Berlin, Germany",
+    "location": [
+      52.5407273,
+      13.4126144
+    ]
+  },
+  {
+    "id": "heavenhr",
+    "name": "HeavenHR",
+    "industry": "HR",
+    "station": "U Rosa-Luxemburg-Platz",
+    "address": "Greifswalder Str. 212, 10405 Berlin, Germany",
+    "location": [
+      52.53216,
+      13.427024
+    ]
+  },
+  {
+    "id": "tandemploy",
+    "name": "Tandemploy",
+    "industry": "HR",
+    "station": "U Senefelderplatz",
+    "address": "Choriner Str. 3, 10119 Berlin, Germany",
+    "location": [
+      52.5314862,
+      13.4062657
+    ]
+  },
+  {
+    "id": "viasto",
+    "name": "Viasto",
+    "industry": "HR",
+    "station": "U Mehringdamm",
+    "address": "Karl-Heinrich-Ulrichs-Straße 05, 10787 Berlin, Germany",
+    "location": [
+      52.5022146,
+      13.3532118
+    ]
+  },
+  {
+    "id": "lamudi",
+    "name": "Lamudi",
+    "industry": "Real Estate",
+    "station": "U Mehringdamm",
+    "address": "Zossener Str. 56, 10961 Berlin, Germany",
+    "location": [
+      52.4951776,
+      13.3953359
+    ]
+  },
+  {
+    "id": "immobilienscout",
+    "name": "ImmobilienScout",
+    "industry": "Real Estate",
+    "station": "S Ostbahnhof",
+    "address": "Andreasstraße 10, 10243 Berlin, Germany",
+    "location": [
+      52.5124602,
+      13.4313378
+    ]
+  },
+  {
+    "id": "mcmakler",
+    "name": "McMakler",
+    "industry": "Real Estate",
+    "station": "U Rosa-Luxemburg-Platz",
+    "address": "Torstraße 19, 10119 Berlin, Germany",
+    "location": [
+      52.52809999999999,
+      13.41347
+    ]
+  },
+  {
+    "id": "mykeys24",
+    "name": "MyKeys24",
+    "industry": "Real Estate",
+    "station": "S Bundesplatz",
+    "address": "Laubacher Str. 21, 14197 Berlin, Germany",
+    "location": [
+      52.47488999999999,
+      13.32056
+    ]
+  },
+  {
+    "id": "movinga",
+    "name": "Movinga",
+    "industry": "Real Estate",
+    "station": "U Schönhauser Allee",
+    "address": "Sonnenburger Str. 73, 10437 Berlin, Germany",
+    "location": [
+      52.5484538,
+      13.4065494
+    ]
+  },
+  {
+    "id": "ableton",
+    "name": "Ableton",
+    "industry": "Music",
+    "station": "U Rosa-Luxemburg-Platz",
+    "address": "Schönhauser Allee 6/7, 10119 Berlin, Germany",
+    "location": [
+      52.52961610000001,
+      13.4103097
+    ]
+  },
+  {
+    "id": "lofelt",
+    "name": "Lofelt",
+    "industry": "Music",
+    "station": "U Warschauser Straße",
+    "address": "Lofelt GmbH, Lohmühlenstraße 65, 12435 Berlin, Germany",
+    "location": [
+      52.49402200000001,
+      13.446336
+    ]
+  },
+  {
+    "id": "naitive-instruments",
+    "name": "Naitive Instruments",
+    "industry": "Music",
+    "station": "U Schlesisches Tor",
+    "address": "Schlesische Str. 29/30, 10997 Berlin, Germany",
+    "location": [
+      52.4991645,
+      13.4477158
+    ]
+  },
+  {
+    "id": "soundcloud",
+    "name": "SoundCloud",
+    "industry": "Music",
+    "station": "U Bernauer Str.",
+    "address": "Rheinsberger Str. 76/77, 10115 Berlin, Germany",
+    "location": [
+      52.5371727,
+      13.39474
+    ]
+  },
+  {
+    "id": "airfy",
+    "name": "Airfy",
+    "industry": "Other",
+    "station": "U Moritzplatz"
+  },
+  {
+    "id": "ascribe",
+    "name": "Ascribe",
+    "industry": "Other",
+    "station": "S Schönhauser Allee",
+    "address": "Wichertstraße 14A, 10439 Berlin, Germany",
+    "location": [
+      52.5490785,
+      13.4191687
+    ]
+  },
+  {
+    "id": "candis",
+    "name": "Candis",
+    "industry": "Other",
+    "station": "U Bernauer Str.",
+    "address": "Stubbenkammerstraße 3, 10437 Berlin, Germany",
+    "location": [
+      52.5420574,
+      13.4247208
+    ]
+  },
+  {
+    "id": "complevo",
+    "name": "Complevo",
+    "industry": "Other",
+    "station": "U ernst-Reuter-Platz",
+    "address": "Bismarckstraße 10, 10625 Berlin, Germany",
+    "location": [
+      52.51274,
+      13.31667
+    ]
+  },
+  {
+    "id": "friendsurance",
+    "name": "Friendsurance",
+    "industry": "Other",
+    "station": "U Klosterstr.",
+    "address": "Mehringdamm 32, 10961 Berlin, Germany",
+    "location": [
+      52.4938262,
+      13.3878711
+    ]
+  },
+  {
+    "id": "here",
+    "name": "Here",
+    "industry": "Other",
+    "station": "U Naturkundemuseum",
+    "address": "Invalidenstraße 116, 10115 Berlin, Germany",
+    "location": [
+      52.530932,
+      13.3849151
+    ]
+  },
+  {
+    "id": "homify",
+    "name": "Homify",
+    "industry": "Other",
+    "station": "U Voltastr.",
+    "address": "Holländerstraße 34, 13407 Berlin, Germany",
+    "location": [
+      52.5623259,
+      13.3542647
+    ]
+  },
+  {
+    "id": "inselberg",
+    "name": "Inselberg",
+    "industry": "Other",
+    "station": "U Eberswalder Str.",
+    "address": "Borsigstraße 8, 10115 Berlin, Germany",
+    "location": [
+      52.5294,
+      13.39035
+    ]
+  },
+  {
+    "id": "kiwi",
+    "name": "KIWI",
+    "industry": "Other",
+    "station": "U Voltastr.",
+    "address": "Wattstraße 11, 13355 Berlin, Germany",
+    "location": [
+      52.5413677,
+      13.3900125
+    ]
+  },
+  {
+    "id": "klickrent",
+    "name": "Klickrent",
+    "industry": "Other",
+    "station": "S Treptower Park",
+    "address": "Elsenstraße 106, 12435 Berlin, Germany",
+    "location": [
+      52.4897337,
+      13.4554343
+    ]
+  },
+  {
+    "id": "labfolder",
+    "name": "Labfolder",
+    "industry": "Other",
+    "station": "U Deutsche Oper",
+    "address": "Pettenkoferstraße 4A, 10247 Berlin, Germany",
+    "location": [
+      52.5156931,
+      13.4730076
+    ]
+  },
+  {
+    "id": "lock8",
+    "name": "Lock8",
+    "industry": "Other",
+    "station": "U Rosenthaler Platz",
+    "address": "Rosenthaler Str. 13, 10119 Berlin, Germany",
+    "location": [
+      52.5274674,
+      13.4028107
+    ]
+  },
+  {
+    "id": "novoda",
+    "name": "Novoda",
+    "industry": "Other",
+    "station": "U Rosa-Luxemburg-Platz",
+    "address": "Hinterhof, Rechts, 3.OG, Grünberger Straße 44a, 10245 Berlin, Germany",
+    "location": [
+      52.51156,
+      13.45403
+    ]
+  },
+  {
+    "id": "numberfour",
+    "name": "NumberFour",
+    "industry": "Other",
+    "station": "U Rosa-Luxemburg-Platz",
+    "address": "Schönhauser Allee 8, 10119 Berlin, Germany",
+    "location": [
+      52.52975,
+      13.410529
+    ]
+  },
+  {
+    "id": "transloadit",
+    "name": "Transloadit",
+    "industry": "Other",
+    "station": "U Französische Str.",
+    "address": "Friedrichstraße 171, 10117 Berlin, Germany",
+    "location": [
+      52.5146026,
+      13.3889642
+    ]
+  },
+  {
+    "id": "trecker",
+    "name": "Trecker",
+    "industry": "Other",
+    "station": "U Kochstr.",
+    "address": "Klosterstraße 62, 10179 Berlin, Germany",
+    "location": [
+      52.5160801,
+      13.4125048
+    ]
+  },
+  {
+    "id": "travis-ci",
+    "name": "Travis CI",
+    "industry": "Other",
+    "station": "U Frankfurter Tor",
+    "address": "Rigaer Str. 8, 10247 Berlin, Germany",
+    "location": [
+      52.51786999999999,
+      13.45572
+    ]
+  },
+  {
+    "id": "think-cell",
+    "name": "Think cell",
+    "industry": "Other",
+    "station": "U Oranienburger Tor",
+    "address": "Chausseestraße 8, 10115 Berlin, Germany",
+    "location": [
+      52.528697,
+      13.387687
+    ]
+  },
+  {
+    "id": "ubitricity",
+    "name": "Ubitricity",
+    "industry": "Other",
+    "station": "S Schöneberg",
+    "address": "EUREF-Campus 7-8,, 10829 Berlin, Germany",
+    "location": [
+      52.480196,
+      13.3551639
+    ]
+  },
+  {
+    "id": "vrnow",
+    "name": "VRnow",
+    "industry": "Other",
+    "station": "U Birkenstr.",
+    "address": "Anklamer Str. 28, 10115 Berlin, Germany",
+    "location": [
+      52.53644999999999,
+      13.40039
+    ]
+  },
+  {
+    "id": "zattoo",
+    "name": "Zattoo",
+    "industry": "Other",
+    "station": "S Sonnenallee",
+    "address": "Sonnenallee 223 a, 12059 Berlin, Germany",
+    "location": [
+      52.47399,
+      13.4574199
+    ]
+  },
+  {
+    "id": "zenmate",
+    "name": "ZenMate",
+    "industry": "Other",
+    "station": "U Moritzplatz",
+    "address": "Ritterstraße 12-14, 10969 Berlin, Germany",
+    "location": [
+      52.5018616,
+      13.4112619
+    ]
+  },
+  {
+    "id": "signavio",
+    "name": "Signavio",
+    "industry": "Other",
+    "station": "U Spittelmarkt"
+  },
+  {
+    "id": "9cookies",
+    "name": "9Cookies",
+    "industry": "Other",
+    "station": "U Wittenbergplatz",
+    "address": "Axel-Springer-Straße 54B, 10117 Berlin, Germany",
+    "location": [
+      52.5101723,
+      13.4013442
+    ]
+  }
+]
