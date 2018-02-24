@@ -35,6 +35,17 @@ body {
   margin: 4px;
 }
 
+#sidebar {
+  width: 300px;
+  position: absolute;
+  top: 50vh;
+  transform: translateY(-50%);
+  left: 0;
+  background-color: white;
+  padding: 2rem;
+  z-index: 1;
+}
+
 /*.filters ul li:nth-of-type(1n+3) {
   display: none;
 }

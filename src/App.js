@@ -12,7 +12,7 @@ export default class App extends React.Component {
     super(props);
 
     this.state = {
-      marker: null,
+      selectedLocation: null,
       filters: [],
       filterVisible: false
     };
@@ -35,7 +35,7 @@ export default class App extends React.Component {
   onToggleFilter = e => this.setState({ filterVisible: e.target.checked });
 
   render() {
-    const { filters, filterVisible } = this.state;
+    const { filters, filterVisible, selectedLocation } = this.state;
     const filteredGeoJSON = {
       ...geojson,
       features: geojson.features.filter(
@@ -43,6 +43,12 @@ export default class App extends React.Component {
           filterVisible ? filters.includes(feature.properties.industry) : true
       )
     };
+    const selectedLocationFeature = geojson.features.find(
+      location => location.properties.id === selectedLocation
+    );
+    const selectedLocationProps =
+      selectedLocationFeature && selectedLocationFeature.properties;
+
     return (
       <div>
         <Filters
@@ -51,6 +57,17 @@ export default class App extends React.Component {
           onSelectFilter={this.onSelectFilter}
           onToggleFilter={this.onToggleFilter}
         />
+        {selectedLocationProps && (
+          <div id="sidebar">
+            <ul>
+              {Object.entries(selectedLocationProps).map(([id, prop]) => (
+                <li key={id}>
+                  {id}: {prop}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
         <Map
           style="mapbox://styles/mapbox/dark-v9"
           center={[13.4011148, 52.5216238]}
@@ -73,6 +90,9 @@ export default class App extends React.Component {
             }}
             circleLayout={{ visibility: "visible" }}
             circlePaint={{ "circle-color": "white" }}
+            circleOnClick={e =>
+              this.setState({ selectedLocation: e.features[0].properties.id })
+            }
           />
         </Map>
       </div>
