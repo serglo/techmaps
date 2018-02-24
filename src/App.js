@@ -1,7 +1,7 @@
 import React from "react";
 import ReactMapboxGl, { GeoJSONLayer } from "react-mapbox-gl";
 import geojson from "./geo.json";
-import { INDUSTRIES } from "./constants/industries";
+import Filters from "./components/Filters";
 
 const Map = ReactMapboxGl({
   accessToken: "pk.eyJ1IjoibWFnZ28iLCJhIjoiYXdzWFR2cyJ9.ke0Vc_1-0TRvq0XhMuYKpA"
@@ -17,8 +17,9 @@ export default class App extends React.Component {
       filterVisible: false
     };
   }
+
   onSelectFilter = e => {
-    const { filters } = this.state;
+    const { filters, filterVisible } = this.state;
     const { checked, value } = e.target;
     if (checked) {
       this.setState({
@@ -31,6 +32,8 @@ export default class App extends React.Component {
     }
   };
 
+  onToggleFilter = e => this.setState({ filterVisible: e.target.checked });
+
   render() {
     const { filters, filterVisible } = this.state;
     const filteredGeoJSON = {
@@ -42,49 +45,12 @@ export default class App extends React.Component {
     };
     return (
       <div>
-        <div id="filters" className="filters">
-          <ul>
-            <li>
-              Techmaps.io 💻🗺️ <br />
-              <a
-                className="addnewbusiness"
-                href="https://techmaps.typeform.com/to/WnqKsS"
-              >
-                add new business
-              </a>
-            </li>
-            <li id="toggle">
-              <label htmlFor="filter">
-                <input
-                  onChange={() =>
-                    this.setState({ filterVisible: !this.state.filterVisible })
-                  }
-                  id="filter"
-                  type="checkbox"
-                />Filter ⛏
-              </label>
-            </li>
-            {Object.entries(INDUSTRIES).map(
-              ([id, industry]) =>
-                this.state.filterVisible && (
-                  <li key={id}>
-                    <label htmlFor={id}>
-                      <input
-                        onChange={this.onSelectFilter}
-                        id={id}
-                        type="checkbox"
-                        value={id}
-                      />
-                      <span role="img" aria-hidden>
-                        {industry.icon}
-                      </span>
-                      {industry.label}
-                    </label>
-                  </li>
-                )
-            )}
-          </ul>
-        </div>
+        <Filters
+          visible={filterVisible}
+          filters={filters}
+          onSelectFilter={this.onSelectFilter}
+          onToggleFilter={this.onToggleFilter}
+        />
         <Map
           style="mapbox://styles/mapbox/dark-v9"
           center={[13.4011148, 52.5216238]}
