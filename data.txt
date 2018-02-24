@@ -1,0 +1,246 @@
+eCommerce
+
+Auctiondata 		(S Tiergarten)
+Bjooli 				(U Weinmeisterstr.)
+Bonial 				(U Warschauer Str.)
+Bonagora 			(U Klosterstr.)
+ByeBuy 				(U Kochstr.)
+Coffee Circle 		(S Wedding)
+DaWanda				(U Charlottenburg)
+Discounto			(S Halensee)
+Erento				(U Schlesisches Tor)
+Flaconi				(U Moritzplatz)
+Home 24				(U Senefelderplatz)
+Junique				(U Heinrich-Heine-Str.)
+KW-Commerce			(U Mierendorfplatz)
+Lesara				(U Eberswalder Str.)
+Lyke				(S Oranienburger Str.)
+Mirapodo			(U Kleistpark)
+Mister Spex			(S Greifswalder Str.)
+Modomoto			(U Mehringdamm)
+MONOQI				(U Rosenthaler Platz)
+Outfiterry			(U Moritzplatz)
+Urbanara			(U Weinmeisterstr.)
+RunaShop			(U Naturkundemuseum)
+Vaola				(U Bernauer Str.)
+Visual Meta			(U Spittelmarkt)
+WatchMaster			(U Schwartzkopffstr.)
+Wayfair				(U Schlesisches Tor)
+Wine in Black		(U Naturkundemuseum)
+Zalando				(U Rosa-Luxemburg-Platz)
+99chairs			(U Naturkundemuseum)
+
+
+AdTech
+
+Ad2Games			(S Hackescher Markt)
+Adjust				(U Senefelderplatz)
+Adsquare			(U Rosa-Luxemburg-Platz)
+Applause			(U Schlesisches Tor)
+AppLift				(S Hackeschermarkt)
+crobo				(U Senefelderplatz)
+Contiamo			(U Bülowstr.)
+Datapine			(U Görlitzer Bhf)
+DeltaMethod			(S Hackescher Markt)
+Fyber				(S Oranienburger Str.)
+glispa				(S Schönhauser Allee)
+GameGenetics		(U Rosa-Luxemburg-Platz)
+IconPeak			(U Naturkundemuseum)
+LiquidM				(S Schönhauser Allee)
+Mapegy				(U Ernst-Reuter-Platz)
+Plista				(U Klosterstr.)
+Roq.ad 				(U Schönleinstr.)
+Remerge				(S Oranienburger Str.)
+Sociomantic			(U Kottbusser Tor)
+Trademob			(U Naturkundemuseum)
+Webtrekk			(U Naturkundemuseum)
+YOC					(U Senefelderplatz)
+
+
+FinTech
+
+Barzahlen			(U Märkisches Museum)
+BillPay				(U Naturkundemuseum)
+Bergfürst			(U Oranienburger Tor)
+Bonify				(U Prinzenstr.)
+Brickgate			(U Schwartzkopffstr.)
+Cashboard			(U Naturkundemuseum)
+FinLeap				(U Alexanderplatz)
+LIQID 				(U Kurfüstendamm)
+Mambu				(U Klosterstr.)
+Number26			(U Hausvogteiplatz)
+OptioPay			(U Warscahuer Str.)
+Orderbird			(U Moritzplatz)
+Payleven			(U Eberswalder Str.)
+Raisin				(U Senefelderplatz)
+Savedo				(U Weinmeisterstr.)
+Smava				(U Frankfurter Tor)
+
+
+Retail
+
+Inventorum			(U Voltastr.)
+Itembase			(S Anhalter Bhf)
+KaufDa				(U Frankfurter Tor)
+Käuferportal		(U Französische Str.)
+Locafox				(U Kottbusser Tor)
+Minodes				(U Kochstr.)
+Newstore			(S Treptower Park)
+Products Up			(U Oranienburger Tor)
+Qipu				(U Rosenthaler Platz)
+
+
+Marketing Solutions
+
+Basilicom			(U Schönleinstr.)
+CrossEngage			(S Nordbahnhof)
+Contentful			(U Moritzplatz)
+DC Media Networks	(U Eberswalder Str.)
+DigitaleSeiten		(U Rosa-Luxemburg-Platz)
+Fanpage Karma		(U Kottbusser Tor)
+Kyto				(U Oranienburger Tor)
+LinkBird			(U Kurfürstendamm)
+Newsletter2Go		(U Ernst-Reuter-Platz)
+Optivo				(U Spittelmarkt)
+Uberall				(U Oranienburger Tor)
+UberMetrics			(U Alexanderplatz)
+Styla				(U Eberswalder Str.)
+Zanox				(U Warschauerstr.)
+
+
+Games
+
+Aeria Games 		(U Schlesisches Tor)
+Crowdpark			(U Schönleinstr.)
+Fox & Sheep			(U Rosenthaler Platz)
+GameDuell			(U Hausvogteiplatz)
+Kabam				(U Senefelderplatz)
+Kling				(U Französische Str.)
+Softgames			(U Rosa-Luxemburg-Platz)
+TreasureHuntStudios	(U Oranienburger Tor)
+Wooga				(U Rosa-Luxemburg-Platz)
+
+
+App
+
+Dubsmash			(U Weinmeisterstr.)
+EyeEm				(U Kottbusser Tor)
+Kitchen Stories		(U Görlitzer Bhf)
+Memorado			(U Kottbusser Tor)
+MyTaxi				(U Rosa-Luxemburg-Platz)
+Onefootball			(U Greifswalder Str.)
+ParkTag				(S Charlottenburg)
+TvSmiles			(U Kochstr.)
+
+
+Health
+
+Clue				(U Kottbusser Tor)
+Mediteo				(U Hausvogteiplatz)
+MeeDoc				(U Hausvogteiplatz)
+Medexo				(S Schöneberg)
+Medigo				(U Rosenthaler Platz)
+NeuroNation			(U Moritzplatz)
+Sanubi				(S Landsberger Allee)
+
+
+EduTech
+
+Babbel				(U Gneisenaustr.)
+Blinkist			(S Sonnenallee)
+Iversity			(S Schönhauser Allee)
+K.Lab Edumedia		(U Karl-Marx-Str.)
+Research Gate      	(U Naturkundemuseum)
+Skive				(S Sonnenallee)
+SofaTutor			(U Frankfurter Tor)
+
+
+Travel
+
+AbroadWith			(U Moritzplatz)
+GetYourGuide		(S Greifswalder Str.)
+GoEuro				(U Senefelderplatz)
+Guestbird			(U Schwartzkopffstr.)
+HolidayPirates		(U Jannowitzbrücke)
+SuitePad			(U Kochstr.)
+Wimdu				(U Voltastr.)
+Zizoo				(U Hallesches Tor)
+
+
+Food Delivery
+
+Bonativo			(U Kottbusser Tor)
+Deliveroo			(U Adenauerplatz)
+Delivery Hero		(U Stadtmitte)
+EatFirst			(U Senefelderplatz)
+Foodora				(S Ostkreuz)
+Foodpanda			(S Ostkreuz)
+HelloFresh			(U Rosa-Luxemburg-Platz)
+Marley Spoon		(U Kottbusser Tor)
+
+
+Service
+
+Auto1 Group			(S Schönhauser Allee)
+Blacklane			(S Julius-Leber-Brücke)
+Book a Tiger 		(U Jannowitzbrücke)
+Carmudi				(U Görlitzer Bhf)
+Helpling			(U Französische Str.)
+Service Parnter ONE (U Senefelderplatz)
+Thermondo			(U Bernauer Str.)
+Vimcar				(U Eberswalder Str.)
+
+
+HR
+
+COMATCH				(U Eberswalder Str.)
+GoHiring			(U Schönleinstr.)
+HONEYPOT			(U Eberswalder Str.)
+HeavenHR			(U Rosa-Luxemburg-Platz)
+Tandemploy			(U Senefelderplatz)
+Viasto				(U Mehringdamm)
+
+
+Real Estate
+
+Lamudi				(U Mehringdamm)
+ImmobilienScout		(S Ostbahnhof)
+McMakler			(U Rosa-Luxemburg-Platz)
+MyKeys24			(S Bundesplatz)
+Movinga				(U Schönhauser Allee)
+
+
+Music
+
+Ableton				(U Rosa-Luxemburg-Platz)
+Lofelt				(U Warschauser Straße)
+Naitive Instruments	(U Schlesisches Tor)
+SoundCloud			(U Bernauer Str.)
+
+
+Other
+
+Airfy				(U Moritzplatz)
+Ascribe				(S Schönhauser Allee)
+Candis				(U Bernauer Str.)
+Complevo			(U ernst-Reuter-Platz)
+Friendsurance		(U Klosterstr.)
+Here 				(U Naturkundemuseum)
+Homify				(U Voltastr.)
+Inselberg			(U Eberswalder Str.)
+KIWI				(U Voltastr.)
+Klickrent			(S Treptower Park)
+Labfolder			(U Deutsche Oper)
+Lock8				(U Rosenthaler Platz)
+Novoda				(U Rosa-Luxemburg-Platz)
+NumberFour			(U Rosa-Luxemburg-Platz)
+Transloadit			(U Französische Str.)
+Trecker				(U Kochstr.)
+Travis CI 			(U Frankfurter Tor)
+Think cell			(U Oranienburger Tor)
+Ubitricity			(S Schöneberg)
+VRnow				(U Birkenstr.)
+Zattoo				(S Sonnenallee)
+ZenMate				(U Moritzplatz)
+Signavio			(U Spittelmarkt)
+9Cookies			(U Wittenbergplatz)
