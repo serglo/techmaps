@@ -1104,7 +1104,7 @@
       "properties": {
         "id": "basilicom",
         "name": "Basilicom",
-        "industry": "Marketing Solutions",
+        "industry": "adtech",
         "lon": 52.5315849,
         "lat": 13.3246061,
         "address": "Sickingenstraße 70, 10553 Berlin, Germany"
@@ -1119,7 +1119,7 @@
       "properties": {
         "id": "crossengage",
         "name": "CrossEngage",
-        "industry": "Marketing Solutions",
+        "industry": "adtech",
         "lon": 52.5231427,
         "lat": 13.3666025,
         "address": "Bertha-Benz-Straße 5, 10557 Berlin, Germany"
@@ -1134,7 +1134,7 @@
       "properties": {
         "id": "contentful",
         "name": "Contentful",
-        "industry": "Marketing Solutions",
+        "industry": "adtech",
         "lon": 52.5020754,
         "lat": 13.4111829,
         "address": "Ritterstraße 12, 10969 Berlin, Germany"
@@ -1149,7 +1149,7 @@
       "properties": {
         "id": "dc-media-networks",
         "name": "DC Media Networks",
-        "industry": "Marketing Solutions",
+        "industry": "adtech",
         "lon": 52.5691595,
         "lat": 13.403198,
         "address": "Breite Str. 26A, 13187 Berlin, Germany"
@@ -1164,7 +1164,7 @@
       "properties": {
         "id": "digitaleseiten",
         "name": "DigitaleSeiten",
-        "industry": "Marketing Solutions",
+        "industry": "adtech",
         "lon": 52.50891,
         "lat": 13.37291,
         "address": "Potsdamer Straße 7, 10785 Berlin, Germany"
@@ -1179,7 +1179,7 @@
       "properties": {
         "id": "fanpage-karma",
         "name": "Fanpage Karma",
-        "industry": "Marketing Solutions",
+        "industry": "adtech",
         "lon": 52.50040139999999,
         "lat": 13.4218367,
         "address": "Oranienstraße 188, 10999 Berlin, Germany"
@@ -1194,7 +1194,7 @@
       "properties": {
         "id": "kyto",
         "name": "Kyto",
-        "industry": "Marketing Solutions",
+        "industry": "adtech",
         "lon": 52.5267858,
         "lat": 13.3897725,
         "address": "Linienstraße 126, 10115 Berlin, Germany"
@@ -1209,7 +1209,7 @@
       "properties": {
         "id": "linkbird",
         "name": "LinkBird",
-        "industry": "Marketing Solutions",
+        "industry": "adtech",
         "lon": 52.5007826,
         "lat": 13.3223918,
         "address": "Knesebeckstraße 59-61, 10719 Berlin, Germany"
@@ -1224,7 +1224,7 @@
       "properties": {
         "id": "newsletter2go",
         "name": "Newsletter2Go",
-        "industry": "Marketing Solutions",
+        "industry": "adtech",
         "lon": 52.50402880000001,
         "lat": 13.3398236,
         "address": "Nürnberger Str. 8, 10787 Berlin, Germany"
@@ -1239,7 +1239,7 @@
       "properties": {
         "id": "optivo",
         "name": "Optivo",
-        "industry": "Marketing Solutions",
+        "industry": "adtech",
         "lon": 52.5111861,
         "lat": 13.4065491,
         "address": "Wallstraße 16, 10179 Berlin, Germany"
@@ -1254,7 +1254,7 @@
       "properties": {
         "id": "uberall",
         "name": "Uberall",
-        "industry": "Marketing Solutions",
+        "industry": "adtech",
         "lon": 52.5251165,
         "lat": 13.3915718,
         "address": "Oranienburger Str. 66, 10117 Berlin, Germany"
@@ -1269,7 +1269,7 @@
       "properties": {
         "id": "ubermetrics",
         "name": "UberMetrics",
-        "industry": "Marketing Solutions",
+        "industry": "adtech",
         "lon": 52.51087,
         "lat": 13.38716,
         "address": "Kronenstraße 1, 10117 Berlin, Germany"
@@ -1284,7 +1284,7 @@
       "properties": {
         "id": "styla",
         "name": "Styla",
-        "industry": "Marketing Solutions",
+        "industry": "adtech",
         "lon": 52.53783,
         "lat": 13.40645,
         "address": "Schwedter Str. 36A, 10435 Berlin, Germany"
@@ -1299,7 +1299,7 @@
       "properties": {
         "id": "zanox",
         "name": "Zanox",
-        "industry": "Marketing Solutions",
+        "industry": "adtech",
         "lon": 52.50636859999999,
         "lat": 13.3732019,
         "address": "Eichhornstraße 3, 10785 Berlin, Germany"
