@@ -6,7 +6,7 @@
       "properties": {
         "id": "auctiondata",
         "name": "Auctiondata",
-        "industry": "eCommerce"
+        "industry": "ecommerce"
       }
     },
     {
@@ -14,7 +14,7 @@
       "properties": {
         "id": "bjooli",
         "name": "Bjooli",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.5264685,
         "lat": 13.3989779,
         "address": "Sophienstraße 33, 10178 Berlin, Germany"
@@ -29,7 +29,7 @@
       "properties": {
         "id": "bonial",
         "name": "Bonial",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.5116936,
         "lat": 13.4527335,
         "address": "Warschauer Str. 70A, 10243 Berlin, Germany"
@@ -44,7 +44,7 @@
       "properties": {
         "id": "bonagora",
         "name": "Bonagora",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.5317477,
         "lat": 13.3836194,
         "address": "Zinnowitzer Str. 8, 10115 Berlin, Germany"
@@ -59,7 +59,7 @@
       "properties": {
         "id": "byebuy",
         "name": "ByeBuy",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.51436210000001,
         "lat": 13.4214494,
         "address": "Holzmarktstraße 11, 10179 Berlin, Germany"
@@ -74,7 +74,7 @@
       "properties": {
         "id": "coffee-circle",
         "name": "Coffee Circle",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.5442163,
         "lat": 13.3674443,
         "address": "Lindower Str. 18, 13347 Berlin, Germany"
@@ -89,7 +89,7 @@
       "properties": {
         "id": "dawanda",
         "name": "DaWanda",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.5056816,
         "lat": 13.2992331,
         "address": "Windscheidstraße 18, 10627 Berlin, Germany"
@@ -104,7 +104,7 @@
       "properties": {
         "id": "discounto",
         "name": "Discounto",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.4997176,
         "lat": 13.2933024,
         "address": "Katharinenstraße 9, 10711 Berlin, Germany"
@@ -119,7 +119,7 @@
       "properties": {
         "id": "erento",
         "name": "Erento",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.5017395,
         "lat": 13.4347561,
         "address": "Wrangelstraße 100, 10997 Berlin, Germany"
@@ -134,7 +134,7 @@
       "properties": {
         "id": "flaconi",
         "name": "Flaconi",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.520516,
         "lat": 13.327445,
         "address": "Franklinstraße 13, 10587 Berlin, Germany"
@@ -149,7 +149,7 @@
       "properties": {
         "id": "home-24",
         "name": "Home 24",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.5321601,
         "lat": 13.4270243,
         "address": "Greifswalder Str. 212-213, 10405 Berlin, Germany"
@@ -164,7 +164,7 @@
       "properties": {
         "id": "junique",
         "name": "Junique",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.5090673,
         "lat": 13.4232941,
         "address": "Köpenicker Str. 126, 10179 Berlin, Germany"
@@ -179,7 +179,7 @@
       "properties": {
         "id": "kw-commerce",
         "name": "KW-Commerce",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.51455,
         "lat": 13.39698,
         "address": "Jägerstraße 41, 10117 Berlin, Germany"
@@ -194,7 +194,7 @@
       "properties": {
         "id": "lesara",
         "name": "Lesara",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.516115,
         "lat": 13.416378,
         "address": "Schicklerstraße 5-7, 10179 Berlin, Germany"
@@ -209,7 +209,7 @@
       "properties": {
         "id": "lyke",
         "name": "Lyke",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.4908884,
         "lat": 13.6297469,
         "address": "Grunowstraße 39, 12623 Berlin, Germany"
@@ -224,7 +224,7 @@
       "properties": {
         "id": "mirapodo",
         "name": "Mirapodo",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.49111,
         "lat": 13.36015,
         "address": "Potsdamer Straße 192, 10783 Berlin, Germany"
@@ -239,7 +239,7 @@
       "properties": {
         "id": "mister-spex",
         "name": "Mister Spex",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.5191435,
         "lat": 13.4156384,
         "address":
@@ -255,7 +255,7 @@
       "properties": {
         "id": "modomoto",
         "name": "Modomoto",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.4939329,
         "lat": 13.3983889,
         "address": "Blücherstraße 22, 10961 Berlin, Germany"
@@ -270,7 +270,7 @@
       "properties": {
         "id": "monoqi",
         "name": "MONOQI",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.5279347,
         "lat": 13.4047576,
         "address": "Gormannstraße 22, 10119 Berlin, Germany"
@@ -285,7 +285,7 @@
       "properties": {
         "id": "outfiterry",
         "name": "Outfiterry",
-        "industry": "eCommerce"
+        "industry": "ecommerce"
       }
     },
     {
@@ -293,7 +293,7 @@
       "properties": {
         "id": "urbanara",
         "name": "Urbanara",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.526827,
         "lat": 13.4009511,
         "address": "Gipsstraße 10, 10119 Berlin, Germany"
@@ -308,7 +308,7 @@
       "properties": {
         "id": "runashop",
         "name": "RunaShop",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.5305196,
         "lat": 13.3834532,
         "address": "Invalidenstraße 112, 10115 Berlin, Germany"
@@ -323,7 +323,7 @@
       "properties": {
         "id": "vaola",
         "name": "Vaola",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.53782,
         "lat": 13.37318,
         "address": "Chausseestraße 84, 10115 Berlin, Germany"
@@ -338,7 +338,7 @@
       "properties": {
         "id": "visual-meta",
         "name": "Visual Meta",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.5241046,
         "lat": 13.4140515,
         "address": "Alexanderstraße 1-5, 10178 Berlin, Germany"
@@ -353,7 +353,7 @@
       "properties": {
         "id": "watchmaster",
         "name": "WatchMaster",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.5120043,
         "lat": 13.3912501,
         "address": "Charlottenstraße 60, 10117 Berlin, Germany"
@@ -368,7 +368,7 @@
       "properties": {
         "id": "wayfair",
         "name": "Wayfair",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.50323299999999,
         "lat": 13.4366897,
         "address": "Köpenicker Str. 180, 10997 Berlin, Germany"
@@ -383,7 +383,7 @@
       "properties": {
         "id": "wine-in-black",
         "name": "Wine in Black",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.50997,
         "lat": 13.389749,
         "address": "Friedrichstraße 194-199, 10117 Berlin, Germany"
@@ -398,7 +398,7 @@
       "properties": {
         "id": "zalando",
         "name": "Zalando",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.5263487,
         "lat": 13.4159428,
         "address": "Mollstraße 1, 10178 Berlin, Germany"
@@ -413,7 +413,7 @@
       "properties": {
         "id": "99chairs",
         "name": "99chairs",
-        "industry": "eCommerce",
+        "industry": "ecommerce",
         "lon": 52.50909840000001,
         "lat": 13.423177,
         "address": "Köpenicker Str. 126, 10179 Berlin, Germany"
@@ -428,7 +428,7 @@
       "properties": {
         "id": "ad2games",
         "name": "Ad2Games",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.521412,
         "lat": 13.405186,
         "address": "Rosenstraße 17, 10178 Berlin, Germany"
@@ -443,7 +443,7 @@
       "properties": {
         "id": "adjust",
         "name": "Adjust",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.5283101,
         "lat": 13.4154047,
         "address": "Saarbrücker Str. 37A, 10405 Berlin, Germany"
@@ -458,7 +458,7 @@
       "properties": {
         "id": "adsquare",
         "name": "Adsquare",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.52912449999999,
         "lat": 13.4160071,
         "address": "Saarbrücker Str. 36, 10405 Berlin, Germany"
@@ -473,7 +473,7 @@
       "properties": {
         "id": "applause",
         "name": "Applause",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.497624,
         "lat": 13.3804301,
         "address": "Obentrautstraße 72, 10963 Berlin, Germany"
@@ -488,7 +488,7 @@
       "properties": {
         "id": "applift",
         "name": "AppLift",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.521412,
         "lat": 13.405186,
         "address": "Rosenstraße 17, 10178 Berlin, Germany"
@@ -503,7 +503,7 @@
       "properties": {
         "id": "crobo",
         "name": "crobo",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.533275,
         "lat": 13.4102929,
         "address": "Schwedter Str. 263, 10119 Berlin, Germany"
@@ -518,7 +518,7 @@
       "properties": {
         "id": "contiamo",
         "name": "Contiamo",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.49640300000001,
         "lat": 13.3578116,
         "address": "Stresemannstraße, 10781 Berlin, Germany"
@@ -533,7 +533,7 @@
       "properties": {
         "id": "datapine",
         "name": "Datapine",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.492355,
         "lat": 13.42858,
         "address": "Friedelstraße 27, 12047 Berlin, Germany"
@@ -548,7 +548,7 @@
       "properties": {
         "id": "deltamethod",
         "name": "DeltaMethod",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.5235627,
         "lat": 13.3989295,
         "address": "Oranienstraße 185, 10999 Berlin, Germany"
@@ -563,7 +563,7 @@
       "properties": {
         "id": "fyber",
         "name": "Fyber",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.52471,
         "lat": 13.38885,
         "address": "Johannisstraße 20, 10117 Berlin, Germany"
@@ -578,7 +578,7 @@
       "properties": {
         "id": "glispa",
         "name": "glispa",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.5484664,
         "lat": 13.4071626,
         "address": "Sonnenburger Str. 73, 10437 Berlin, Germany"
@@ -593,7 +593,7 @@
       "properties": {
         "id": "gamegenetics",
         "name": "GameGenetics",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.5161034,
         "lat": 13.4126544,
         "address": "Klosterstraße 62, 10179 Berlin, Germany"
@@ -608,7 +608,7 @@
       "properties": {
         "id": "iconpeak",
         "name": "IconPeak",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.53052,
         "lat": 13.383453,
         "address": "Invalidenstraße 112, 10115 Berlin, Germany"
@@ -623,7 +623,7 @@
       "properties": {
         "id": "liquidm",
         "name": "LiquidM",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.5246479,
         "lat": 13.402667,
         "address": "Rosenthaler Str. 36, 10178 Berlin, Germany"
@@ -638,7 +638,7 @@
       "properties": {
         "id": "mapegy",
         "name": "Mapegy",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.512557,
         "lat": 13.316718,
         "address": "Bismarckstraße 10-12, 10625 Berlin, Germany"
@@ -653,7 +653,7 @@
       "properties": {
         "id": "plista",
         "name": "Plista",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.528363,
         "lat": 13.412665,
         "address": "Torstraße 33, 10119 Berlin, Germany"
@@ -668,7 +668,7 @@
       "properties": {
         "id": "roqad",
         "name": "Roq.ad",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.4933847,
         "lat": 13.3887912,
         "address": "Mehringdamm 33, 10961 Berlin, Germany"
@@ -683,7 +683,7 @@
       "properties": {
         "id": "remerge",
         "name": "Remerge",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.52464,
         "lat": 13.39503,
         "address": "Oranienburger Str. 27, 10117 Berlin, Germany"
@@ -698,7 +698,7 @@
       "properties": {
         "id": "sociomantic",
         "name": "Sociomantic",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.496069,
         "lat": 13.4220906,
         "address": "Paul-Lincke-Ufer 39-40, 10999 Berlin, Germany"
@@ -713,7 +713,7 @@
       "properties": {
         "id": "trademob",
         "name": "Trademob",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.5289252,
         "lat": 13.3880405,
         "address": "Novalisstraße 10, 10115 Berlin, Germany"
@@ -728,7 +728,7 @@
       "properties": {
         "id": "webtrekk",
         "name": "Webtrekk",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.5278072,
         "lat": 13.3803064,
         "address": "Robert-Koch-Platz 4, 10115 Berlin, Germany"
@@ -743,7 +743,7 @@
       "properties": {
         "id": "yoc",
         "name": "YOC",
-        "industry": "AdTech",
+        "industry": "adtech",
         "lon": 52.5321601,
         "lat": 13.4270243,
         "address": "Greifswalder Str. 212, 10405 Berlin, Germany"
@@ -758,7 +758,7 @@
       "properties": {
         "id": "barzahlen",
         "name": "Barzahlen",
-        "industry": "FinTech",
+        "industry": "fintech",
         "lon": 52.5110654,
         "lat": 13.4054234,
         "address": "Wallstraße 14a, 10179 Berlin, Germany"
@@ -773,7 +773,7 @@
       "properties": {
         "id": "billpay",
         "name": "BillPay",
-        "industry": "FinTech",
+        "industry": "fintech",
         "lon": 52.531653,
         "lat": 13.3827421,
         "address": "Zinnowitzer Str. 1, 10115 Berlin, Germany"
@@ -788,7 +788,7 @@
       "properties": {
         "id": "bergfurst",
         "name": "Bergfürst",
-        "industry": "FinTech",
+        "industry": "fintech",
         "lon": 52.523757,
         "lat": 13.380142,
         "address": "Schumannstraße 18, 10117 Berlin, Germany"
@@ -803,7 +803,7 @@
       "properties": {
         "id": "bonify",
         "name": "Bonify",
-        "industry": "FinTech",
+        "industry": "fintech",
         "lon": 52.506088,
         "lat": 13.430895,
         "address": "Köpenicker Str. 154, 10997 Berlin, Germany"
@@ -818,7 +818,7 @@
       "properties": {
         "id": "brickgate",
         "name": "Brickgate",
-        "industry": "FinTech",
+        "industry": "fintech",
         "lon": 52.537386,
         "lat": 13.378824,
         "address": "Wöhlertstraße 12-13, 10115 Berlin, Germany"
@@ -833,7 +833,7 @@
       "properties": {
         "id": "cashboard",
         "name": "Cashboard",
-        "industry": "FinTech",
+        "industry": "fintech",
         "lon": 52.5305196,
         "lat": 13.3834532,
         "address": "Invalidenstraße 112, 10115 Berlin, Germany"
@@ -848,7 +848,7 @@
       "properties": {
         "id": "finleap",
         "name": "FinLeap",
-        "industry": "FinTech",
+        "industry": "fintech",
         "lon": 52.5080949,
         "lat": 13.3293017,
         "address": "Hardenbergstraße 32, 10623 Berlin, Germany"
@@ -863,7 +863,7 @@
       "properties": {
         "id": "liqid",
         "name": "LIQID",
-        "industry": "FinTech",
+        "industry": "fintech",
         "lon": 52.4999506,
         "lat": 13.3106105,
         "address": "Kurfürstendamm 177, 10707 Berlin, Germany"
@@ -878,7 +878,7 @@
       "properties": {
         "id": "mambu",
         "name": "Mambu",
-        "industry": "FinTech"
+        "industry": "fintech"
       }
     },
     {
@@ -886,7 +886,7 @@
       "properties": {
         "id": "number26",
         "name": "Number26",
-        "industry": "FinTech",
+        "industry": "fintech",
         "lon": 52.516116,
         "lat": 13.412618,
         "address": "Klosterstraße 62, 10179 Berlin, Germany"
@@ -901,7 +901,7 @@
       "properties": {
         "id": "optiopay",
         "name": "OptioPay",
-        "industry": "FinTech",
+        "industry": "fintech",
         "lon": 52.4954784,
         "lat": 13.4619499,
         "address": "An den Treptowers 1, 12435 Berlin, Germany"
@@ -916,7 +916,7 @@
       "properties": {
         "id": "orderbird",
         "name": "Orderbird",
-        "industry": "FinTech",
+        "industry": "fintech",
         "lon": 52.5018616,
         "lat": 13.4112619,
         "address": "Ritterstraße 12-14, 10969 Berlin, Germany"
@@ -931,7 +931,7 @@
       "properties": {
         "id": "payleven",
         "name": "Payleven",
-        "industry": "FinTech",
+        "industry": "fintech",
         "lon": 52.529822,
         "lat": 13.4119518,
         "address": "Saarbrücker Str. 20/21, 10405 Berlin, Germany"
@@ -946,7 +946,7 @@
       "properties": {
         "id": "raisin",
         "name": "Raisin",
-        "industry": "FinTech",
+        "industry": "fintech",
         "lon": 52.5317005,
         "lat": 13.4260406,
         "address": "Immanuelkirchstraße 14A, 10405 Berlin, Germany"
@@ -961,7 +961,7 @@
       "properties": {
         "id": "savedo",
         "name": "Savedo",
-        "industry": "FinTech",
+        "industry": "fintech",
         "lon": 52.5238769,
         "lat": 13.4066799,
         "address": "Dircksenstraße 41, 10178 Berlin, Germany"
@@ -976,7 +976,7 @@
       "properties": {
         "id": "smava",
         "name": "Smava",
-        "industry": "FinTech",
+        "industry": "fintech",
         "lon": 52.51128,
         "lat": 13.44992,
         "address": "Kopernikusstraße 35, 10243 Berlin, Germany"
@@ -991,7 +991,7 @@
       "properties": {
         "id": "inventorum",
         "name": "Inventorum",
-        "industry": "Retail",
+        "industry": "retail",
         "lon": 52.5417089,
         "lat": 13.3891794,
         "address": "Voltastraße 5, 13355 Berlin, Germany"
@@ -1006,7 +1006,7 @@
       "properties": {
         "id": "itembase",
         "name": "Itembase",
-        "industry": "Retail",
+        "industry": "retail",
         "lon": 52.5038661,
         "lat": 13.3862756,
         "address": "Wilhelmstraße 118, 10963 Berlin, Germany"
@@ -1021,7 +1021,7 @@
       "properties": {
         "id": "kaufda",
         "name": "KaufDa",
-        "industry": "Retail",
+        "industry": "retail",
         "lon": 52.5116936,
         "lat": 13.4527335,
         "address": "Warschauer Str. 70A, 10243 Berlin, Germany"
@@ -1036,7 +1036,7 @@
       "properties": {
         "id": "kauferportal",
         "name": "Käuferportal",
-        "industry": "Retail"
+        "industry": "retail"
       }
     },
     {
@@ -1044,7 +1044,7 @@
       "properties": {
         "id": "locafox",
         "name": "Locafox",
-        "industry": "Retail",
+        "industry": "retail",
         "lon": 52.5533009,
         "lat": 13.3605023,
         "address": "Oudenarder Str. 16, 13347 Berlin, Germany"
@@ -1059,7 +1059,7 @@
       "properties": {
         "id": "minodes",
         "name": "Minodes",
-        "industry": "Retail",
+        "industry": "retail",
         "lon": 52.5067072,
         "lat": 13.3934851,
         "address": "Charlottenstraße 4, 10969 Berlin, Germany"
@@ -1074,7 +1074,7 @@
       "properties": {
         "id": "newstore",
         "name": "Newstore",
-        "industry": "Retail",
+        "industry": "retail",
         "lon": 52.5207321,
         "lat": 13.3819002,
         "address": "Schiffbauerdamm 22, 10117 Berlin, Germany"
@@ -1089,7 +1089,7 @@
       "properties": {
         "id": "products-up",
         "name": "Products Up",
-        "industry": "Retail",
+        "industry": "retail",
         "lon": 52.5247282,
         "lat": 13.4148786,
         "address": "Alex-Wedding-Straße 5, 10178 Berlin, Germany"
@@ -1104,7 +1104,7 @@
       "properties": {
         "id": "qipu",
         "name": "Qipu",
-        "industry": "Retail",
+        "industry": "retail",
         "lon": 52.5321601,
         "lat": 13.4270243,
         "address": "Greifswalder Str. 212, 10405 Berlin, Germany"
@@ -1329,7 +1329,7 @@
       "properties": {
         "id": "aeria-games",
         "name": "Aeria Games",
-        "industry": "Games",
+        "industry": "games",
         "lon": 52.49944559999999,
         "lat": 13.4492543,
         "address": "Schlesische Str. 27, 10997 Berlin, Germany"
@@ -1344,7 +1344,7 @@
       "properties": {
         "id": "crowdpark",
         "name": "Crowdpark",
-        "industry": "Games",
+        "industry": "games",
         "lon": 52.4901442,
         "lat": 13.435935,
         "address": "Maybachufer 48-51, 12045 Berlin, Germany"
@@ -1359,7 +1359,7 @@
       "properties": {
         "id": "fox-and-sheep",
         "name": "Fox & Sheep",
-        "industry": "Games",
+        "industry": "games",
         "lon": 52.5267,
         "lat": 13.3887301,
         "address": "Linienstraße 130, 10115 Berlin, Germany"
@@ -1374,7 +1374,7 @@
       "properties": {
         "id": "gameduell",
         "name": "GameDuell",
-        "industry": "Games",
+        "industry": "games",
         "lon": 52.513353,
         "lat": 13.395566,
         "address": "Taubenstraße 24-25, 10117 Berlin, Germany"
@@ -1389,7 +1389,7 @@
       "properties": {
         "id": "kabam",
         "name": "Kabam",
-        "industry": "Games",
+        "industry": "games",
         "lon": 52.5321601,
         "lat": 13.4270243,
         "address": "Greifswalder Str. 212, 10405 Berlin, Germany"
@@ -1404,7 +1404,7 @@
       "properties": {
         "id": "kling",
         "name": "Kling",
-        "industry": "Games",
+        "industry": "games",
         "lon": 52.52413139999999,
         "lat": 13.3022718,
         "address": "Mierendorffstraße 23, 10589 Berlin, Germany"
@@ -1419,7 +1419,7 @@
       "properties": {
         "id": "softgames",
         "name": "Softgames",
-        "industry": "Games",
+        "industry": "games",
         "lon": 52.52836139999999,
         "lat": 13.4124563,
         "address": "Torstraße 35, 10119 Berlin, Germany"
@@ -1434,7 +1434,7 @@
       "properties": {
         "id": "treasurehuntstudios",
         "name": "TreasureHuntStudios",
-        "industry": "Games",
+        "industry": "games",
         "lon": 52.50031999999999,
         "lat": 13.4364801,
         "address": "Skalitzer Str. 85-86, 10997 Berlin, Germany"
@@ -1449,7 +1449,7 @@
       "properties": {
         "id": "wooga",
         "name": "Wooga",
-        "industry": "Games"
+        "industry": "games"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "id": "clue",
         "name": "Clue",
-        "industry": "Health",
+        "industry": "health",
         "lon": 52.500417,
         "lat": 13.419501,
         "address": "Adalbertstraße 8, 10999 Berlin, Germany"
@@ -1592,7 +1592,7 @@
       "properties": {
         "id": "mediteo",
         "name": "Mediteo",
-        "industry": "Health"
+        "industry": "health"
       }
     },
     {
@@ -1600,7 +1600,7 @@
       "properties": {
         "id": "meedoc",
         "name": "MeeDoc",
-        "industry": "Health",
+        "industry": "health",
         "lon": 52.5134602,
         "lat": 13.3971355,
         "address": "Oberwallstraße 10, 10117 Berlin, Germany"
@@ -1615,7 +1615,7 @@
       "properties": {
         "id": "medexo",
         "name": "Medexo",
-        "industry": "Health",
+        "industry": "health",
         "lon": 52.4823574,
         "lat": 13.3495234,
         "address": "Hauptstraße 117, 10827 Berlin, Germany"
@@ -1630,7 +1630,7 @@
       "properties": {
         "id": "medigo",
         "name": "Medigo",
-        "industry": "Health",
+        "industry": "health",
         "lon": 52.5272158,
         "lat": 13.4030494,
         "address": "Rosenthaler Str. 13, 10119 Berlin, Germany"
@@ -1645,7 +1645,7 @@
       "properties": {
         "id": "neuronation",
         "name": "NeuroNation",
-        "industry": "Health",
+        "industry": "health",
         "lon": 52.50089759999999,
         "lat": 13.412989,
         "address": "Ritterstraße 3, 10969 Berlin, Germany"
@@ -1660,7 +1660,7 @@
       "properties": {
         "id": "sanubi",
         "name": "Sanubi",
-        "industry": "Health",
+        "industry": "health",
         "lon": 52.4964281,
         "lat": 13.367232,
         "address": "Bülowstraße 66, 10783 Berlin, Germany"
@@ -1675,7 +1675,7 @@
       "properties": {
         "id": "babbel",
         "name": "Babbel",
-        "industry": "EduTech",
+        "industry": "edutech",
         "lon": 52.5246187,
         "lat": 13.4082086,
         "address": "Max-Beer-Straße 2, 10119 Berlin, Germany"
@@ -1690,7 +1690,7 @@
       "properties": {
         "id": "blinkist",
         "name": "Blinkist",
-        "industry": "EduTech",
+        "industry": "edutech",
         "lon": 52.4735112,
         "lat": 13.4572666,
         "address": "Sonnenallee 223, 12059 Berlin, Germany"
@@ -1705,7 +1705,7 @@
       "properties": {
         "id": "iversity",
         "name": "Iversity",
-        "industry": "EduTech",
+        "industry": "edutech",
         "lon": 52.5254439,
         "lat": 13.3974704,
         "address": "Krausnickstraße 16, 10115 Berlin, Germany"
@@ -1720,7 +1720,7 @@
       "properties": {
         "id": "klab-edumedia",
         "name": "K.Lab Edumedia",
-        "industry": "EduTech",
+        "industry": "edutech",
         "lon": 52.4794012,
         "lat": 13.4369415,
         "address": "Karl-Marx-Straße 100, 12043 Berlin, Germany"
@@ -1735,7 +1735,7 @@
       "properties": {
         "id": "research-gate",
         "name": "Research Gate",
-        "industry": "EduTech",
+        "industry": "edutech",
         "lon": 52.53073269999999,
         "lat": 13.3844534,
         "address": "Invalidenstraße 115, 10115 Berlin, Germany"
@@ -1750,7 +1750,7 @@
       "properties": {
         "id": "skive",
         "name": "Skive",
-        "industry": "EduTech",
+        "industry": "edutech",
         "lon": 52.47399,
         "lat": 13.4574199,
         "address": "Sonnenallee 223A, 12059 Berlin, Germany"
@@ -1765,7 +1765,7 @@
       "properties": {
         "id": "sofatutor",
         "name": "SofaTutor",
-        "industry": "EduTech",
+        "industry": "edutech",
         "lon": 52.51181829999999,
         "lat": 13.4558557,
         "address": "Grünberger Str. 54, 10245 Berlin, Germany"
@@ -1780,7 +1780,7 @@
       "properties": {
         "id": "abroadwith",
         "name": "AbroadWith",
-        "industry": "Travel",
+        "industry": "travel",
         "lon": 52.5099664,
         "lat": 13.4669373,
         "address": "Weserstraße 14, 10247 Berlin, Germany"
@@ -1795,7 +1795,7 @@
       "properties": {
         "id": "getyourguide",
         "name": "GetYourGuide",
-        "industry": "Travel",
+        "industry": "travel",
         "lon": 52.5439763,
         "lat": 13.4404115,
         "address": "Erich-Weinert-Straße 145, 10409 Berlin, Germany"
@@ -1810,7 +1810,7 @@
       "properties": {
         "id": "goeuro",
         "name": "GoEuro",
-        "industry": "Travel",
+        "industry": "travel",
         "lon": 52.53085009999999,
         "lat": 13.4109222,
         "address": "Schönhauser Allee 180, 10119 Berlin, Germany"
@@ -1825,7 +1825,7 @@
       "properties": {
         "id": "guestbird",
         "name": "Guestbird",
-        "industry": "Travel"
+        "industry": "travel"
       }
     },
     {
@@ -1833,7 +1833,7 @@
       "properties": {
         "id": "holidaypirates",
         "name": "HolidayPirates",
-        "industry": "Travel",
+        "industry": "travel",
         "lon": 52.51349399999999,
         "lat": 13.412735,
         "address": "Wallstraße 59, 10179 Berlin, Germany"
@@ -1848,7 +1848,7 @@
       "properties": {
         "id": "suitepad",
         "name": "SuitePad",
-        "industry": "Travel",
+        "industry": "travel",
         "lon": 52.50416999999999,
         "lat": 13.39051,
         "address": "Friedrichstraße 224, 10969 Berlin, Germany"
@@ -1863,7 +1863,7 @@
       "properties": {
         "id": "wimdu",
         "name": "Wimdu",
-        "industry": "Travel",
+        "industry": "travel",
         "lon": 52.5418972,
         "lat": 13.3896349,
         "address": "Voltastraße 5, 13355 Berlin, Germany"
@@ -1878,7 +1878,7 @@
       "properties": {
         "id": "zizoo",
         "name": "Zizoo",
-        "industry": "Travel",
+        "industry": "travel",
         "lon": 52.4951776,
         "lat": 13.3953358,
         "address": "Zossener Str. 56, 10961 Berlin, Germany"
@@ -1893,7 +1893,7 @@
       "properties": {
         "id": "bonativo",
         "name": "Bonativo",
-        "industry": "Food Delivery",
+        "industry": "fooddelivery",
         "lon": 52.5235687,
         "lat": 13.3872835,
         "address": "Friedrichstraße 133, 10117 Berlin, Germany"
@@ -1908,7 +1908,7 @@
       "properties": {
         "id": "deliveroo",
         "name": "Deliveroo",
-        "industry": "Food Delivery",
+        "industry": "fooddelivery",
         "lon": 52.49714220000001,
         "lat": 13.3131286,
         "address": "Bregenzer Str. 3, 10707 Berlin, Germany"
@@ -1923,7 +1923,7 @@
       "properties": {
         "id": "delivery-hero",
         "name": "Delivery Hero",
-        "industry": "Food Delivery",
+        "industry": "fooddelivery",
         "lon": 52.5247258,
         "lat": 13.3930329,
         "address": "70 Oranienburger Straße, 10117 Berlin, Germany"
@@ -1938,7 +1938,7 @@
       "properties": {
         "id": "eatfirst",
         "name": "EatFirst",
-        "industry": "Food Delivery",
+        "industry": "fooddelivery",
         "lon": 52.52417,
         "lat": 13.4138971,
         "address": "Alexanderstraße 1, 10178 Berlin, Germany"
@@ -1953,7 +1953,7 @@
       "properties": {
         "id": "foodora",
         "name": "Foodora",
-        "industry": "Food Delivery",
+        "industry": "fooddelivery",
         "lon": 52.52469869999999,
         "lat": 13.3929251,
         "address": "Oranienburger Str. 70, 10117 Berlin, Germany"
@@ -1968,7 +1968,7 @@
       "properties": {
         "id": "foodpanda",
         "name": "Foodpanda",
-        "industry": "Food Delivery",
+        "industry": "fooddelivery",
         "lon": 52.52469869999999,
         "lat": 13.3929251,
         "address": "Oranienburger Str. 70, 10117 Berlin, Germany"
@@ -1983,7 +1983,7 @@
       "properties": {
         "id": "hellofresh",
         "name": "HelloFresh",
-        "industry": "Food Delivery"
+        "industry": "fooddelivery"
       }
     },
     {
@@ -1991,7 +1991,7 @@
       "properties": {
         "id": "marley-spoon",
         "name": "Marley Spoon",
-        "industry": "Food Delivery",
+        "industry": "fooddelivery",
         "lon": 52.49623,
         "lat": 13.4221,
         "address": "Paul-Lincke-Ufer 39, 10999 Berlin, Germany"
@@ -2006,7 +2006,7 @@
       "properties": {
         "id": "auto1-group",
         "name": "Auto1 Group",
-        "industry": "Service",
+        "industry": "service",
         "lon": 52.4890507,
         "lat": 13.3980086,
         "address": "Bergmannstraße 72, 10961 Berlin, Germany"
@@ -2021,7 +2021,7 @@
       "properties": {
         "id": "blacklane",
         "name": "Blacklane",
-        "industry": "Service"
+        "industry": "service"
       }
     },
     {
@@ -2029,7 +2029,7 @@
       "properties": {
         "id": "book-a-tiger",
         "name": "Book a Tiger",
-        "industry": "Service",
+        "industry": "service",
         "lon": 52.5130251,
         "lat": 13.4178763,
         "address": "Brückenstraße 5A, 10179 Berlin, Germany"
@@ -2044,7 +2044,7 @@
       "properties": {
         "id": "carmudi",
         "name": "Carmudi",
-        "industry": "Service",
+        "industry": "service",
         "lon": 52.5235687,
         "lat": 13.3872835,
         "address": "Friedrichstraße 133, 10117 Berlin, Germany"
@@ -2059,7 +2059,7 @@
       "properties": {
         "id": "helpling",
         "name": "Helpling",
-        "industry": "Service",
+        "industry": "service",
         "lon": 52.513933,
         "lat": 13.387211,
         "address": "Jägerstraße 67, 10117 Berlin, Germany"
@@ -2074,7 +2074,7 @@
       "properties": {
         "id": "service-parnter-one",
         "name": "Service Parnter ONE",
-        "industry": "Service",
+        "industry": "service",
         "lon": 52.5332181,
         "lat": 13.4244831,
         "address": "Winsstraße 62, 10405 Berlin, Germany"
@@ -2089,7 +2089,7 @@
       "properties": {
         "id": "thermondo",
         "name": "Thermondo",
-        "industry": "Service",
+        "industry": "service",
         "lon": 52.53587,
         "lat": 13.39725,
         "address": "Brunnenstraße 153, 10115 Berlin, Germany"
@@ -2104,7 +2104,7 @@
       "properties": {
         "id": "vimcar",
         "name": "Vimcar",
-        "industry": "Service",
+        "industry": "service",
         "lon": 52.499465,
         "lat": 13.4276,
         "address": "Skalitzer Str. 104, 10997 Berlin, Germany"
@@ -2119,7 +2119,7 @@
       "properties": {
         "id": "comatch",
         "name": "COMATCH",
-        "industry": "HR",
+        "industry": "hr",
         "lon": 52.49445,
         "lat": 13.4230699,
         "address": "Schinkestraße 20, 12047 Berlin, Germany"
@@ -2134,7 +2134,7 @@
       "properties": {
         "id": "gohiring",
         "name": "GoHiring",
-        "industry": "HR",
+        "industry": "hr",
         "lon": 52.4918111,
         "lat": 13.4275503,
         "address": "Friedelstraße 40, 12047 Berlin, Germany"
@@ -2149,7 +2149,7 @@
       "properties": {
         "id": "honeypot",
         "name": "HONEYPOT",
-        "industry": "HR",
+        "industry": "hr",
         "lon": 52.5407273,
         "lat": 13.4126144,
         "address": "Schönhauser Allee 45, 10435 Berlin, Germany"
@@ -2164,7 +2164,7 @@
       "properties": {
         "id": "heavenhr",
         "name": "HeavenHR",
-        "industry": "HR",
+        "industry": "hr",
         "lon": 52.53216,
         "lat": 13.427024,
         "address": "Greifswalder Str. 212, 10405 Berlin, Germany"
@@ -2179,7 +2179,7 @@
       "properties": {
         "id": "tandemploy",
         "name": "Tandemploy",
-        "industry": "HR",
+        "industry": "hr",
         "lon": 52.5314862,
         "lat": 13.4062657,
         "address": "Choriner Str. 3, 10119 Berlin, Germany"
@@ -2194,7 +2194,7 @@
       "properties": {
         "id": "viasto",
         "name": "Viasto",
-        "industry": "HR",
+        "industry": "hr",
         "lon": 52.5022146,
         "lat": 13.3532118,
         "address": "Karl-Heinrich-Ulrichs-Straße 05, 10787 Berlin, Germany"
@@ -2209,7 +2209,7 @@
       "properties": {
         "id": "lamudi",
         "name": "Lamudi",
-        "industry": "Real Estate",
+        "industry": "realestate",
         "lon": 52.4951776,
         "lat": 13.3953359,
         "address": "Zossener Str. 56, 10961 Berlin, Germany"
@@ -2224,7 +2224,7 @@
       "properties": {
         "id": "immobilienscout",
         "name": "ImmobilienScout",
-        "industry": "Real Estate",
+        "industry": "realestate",
         "lon": 52.5124602,
         "lat": 13.4313378,
         "address": "Andreasstraße 10, 10243 Berlin, Germany"
@@ -2239,7 +2239,7 @@
       "properties": {
         "id": "mcmakler",
         "name": "McMakler",
-        "industry": "Real Estate",
+        "industry": "realestate",
         "lon": 52.52809999999999,
         "lat": 13.41347,
         "address": "Torstraße 19, 10119 Berlin, Germany"
@@ -2254,7 +2254,7 @@
       "properties": {
         "id": "mykeys24",
         "name": "MyKeys24",
-        "industry": "Real Estate",
+        "industry": "realestate",
         "lon": 52.47488999999999,
         "lat": 13.32056,
         "address": "Laubacher Str. 21, 14197 Berlin, Germany"
@@ -2269,7 +2269,7 @@
       "properties": {
         "id": "movinga",
         "name": "Movinga",
-        "industry": "Real Estate",
+        "industry": "realestate",
         "lon": 52.5484538,
         "lat": 13.4065494,
         "address": "Sonnenburger Str. 73, 10437 Berlin, Germany"
@@ -2284,7 +2284,7 @@
       "properties": {
         "id": "ableton",
         "name": "Ableton",
-        "industry": "Music",
+        "industry": "music",
         "lon": 52.52961610000001,
         "lat": 13.4103097,
         "address": "Schönhauser Allee 6/7, 10119 Berlin, Germany"
@@ -2299,7 +2299,7 @@
       "properties": {
         "id": "lofelt",
         "name": "Lofelt",
-        "industry": "Music",
+        "industry": "music",
         "lon": 52.49402200000001,
         "lat": 13.446336,
         "address": "Lofelt GmbH, Lohmühlenstraße 65, 12435 Berlin, Germany"
@@ -2314,7 +2314,7 @@
       "properties": {
         "id": "naitive-instruments",
         "name": "Naitive Instruments",
-        "industry": "Music",
+        "industry": "music",
         "lon": 52.4991645,
         "lat": 13.4477158,
         "address": "Schlesische Str. 29/30, 10997 Berlin, Germany"
@@ -2329,7 +2329,7 @@
       "properties": {
         "id": "soundcloud",
         "name": "SoundCloud",
-        "industry": "Music",
+        "industry": "music",
         "lon": 52.5371727,
         "lat": 13.39474,
         "address": "Rheinsberger Str. 76/77, 10115 Berlin, Germany"
@@ -2344,7 +2344,7 @@
       "properties": {
         "id": "airfy",
         "name": "Airfy",
-        "industry": "Other"
+        "industry": "other"
       }
     },
     {
@@ -2352,7 +2352,7 @@
       "properties": {
         "id": "ascribe",
         "name": "Ascribe",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.5490785,
         "lat": 13.4191687,
         "address": "Wichertstraße 14A, 10439 Berlin, Germany"
@@ -2367,7 +2367,7 @@
       "properties": {
         "id": "candis",
         "name": "Candis",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.5420574,
         "lat": 13.4247208,
         "address": "Stubbenkammerstraße 3, 10437 Berlin, Germany"
@@ -2382,7 +2382,7 @@
       "properties": {
         "id": "complevo",
         "name": "Complevo",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.51274,
         "lat": 13.31667,
         "address": "Bismarckstraße 10, 10625 Berlin, Germany"
@@ -2397,7 +2397,7 @@
       "properties": {
         "id": "friendsurance",
         "name": "Friendsurance",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.4938262,
         "lat": 13.3878711,
         "address": "Mehringdamm 32, 10961 Berlin, Germany"
@@ -2412,7 +2412,7 @@
       "properties": {
         "id": "here",
         "name": "Here",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.530932,
         "lat": 13.3849151,
         "address": "Invalidenstraße 116, 10115 Berlin, Germany"
@@ -2427,7 +2427,7 @@
       "properties": {
         "id": "homify",
         "name": "Homify",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.5623259,
         "lat": 13.3542647,
         "address": "Holländerstraße 34, 13407 Berlin, Germany"
@@ -2442,7 +2442,7 @@
       "properties": {
         "id": "inselberg",
         "name": "Inselberg",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.5294,
         "lat": 13.39035,
         "address": "Borsigstraße 8, 10115 Berlin, Germany"
@@ -2457,7 +2457,7 @@
       "properties": {
         "id": "kiwi",
         "name": "KIWI",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.5413677,
         "lat": 13.3900125,
         "address": "Wattstraße 11, 13355 Berlin, Germany"
@@ -2472,7 +2472,7 @@
       "properties": {
         "id": "klickrent",
         "name": "Klickrent",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.4897337,
         "lat": 13.4554343,
         "address": "Elsenstraße 106, 12435 Berlin, Germany"
@@ -2487,7 +2487,7 @@
       "properties": {
         "id": "labfolder",
         "name": "Labfolder",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.5156931,
         "lat": 13.4730076,
         "address": "Pettenkoferstraße 4A, 10247 Berlin, Germany"
@@ -2502,7 +2502,7 @@
       "properties": {
         "id": "lock8",
         "name": "Lock8",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.5274674,
         "lat": 13.4028107,
         "address": "Rosenthaler Str. 13, 10119 Berlin, Germany"
@@ -2517,7 +2517,7 @@
       "properties": {
         "id": "novoda",
         "name": "Novoda",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.51156,
         "lat": 13.45403,
         "address":
@@ -2533,7 +2533,7 @@
       "properties": {
         "id": "numberfour",
         "name": "NumberFour",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.52975,
         "lat": 13.410529,
         "address": "Schönhauser Allee 8, 10119 Berlin, Germany"
@@ -2548,7 +2548,7 @@
       "properties": {
         "id": "transloadit",
         "name": "Transloadit",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.5146026,
         "lat": 13.3889642,
         "address": "Friedrichstraße 171, 10117 Berlin, Germany"
@@ -2563,7 +2563,7 @@
       "properties": {
         "id": "trecker",
         "name": "Trecker",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.5160801,
         "lat": 13.4125048,
         "address": "Klosterstraße 62, 10179 Berlin, Germany"
@@ -2578,7 +2578,7 @@
       "properties": {
         "id": "travis-ci",
         "name": "Travis CI",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.51786999999999,
         "lat": 13.45572,
         "address": "Rigaer Str. 8, 10247 Berlin, Germany"
@@ -2593,7 +2593,7 @@
       "properties": {
         "id": "think-cell",
         "name": "Think cell",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.528697,
         "lat": 13.387687,
         "address": "Chausseestraße 8, 10115 Berlin, Germany"
@@ -2608,7 +2608,7 @@
       "properties": {
         "id": "ubitricity",
         "name": "Ubitricity",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.480196,
         "lat": 13.3551639,
         "address": "EUREF-Campus 7-8,, 10829 Berlin, Germany"
@@ -2623,7 +2623,7 @@
       "properties": {
         "id": "vrnow",
         "name": "VRnow",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.53644999999999,
         "lat": 13.40039,
         "address": "Anklamer Str. 28, 10115 Berlin, Germany"
@@ -2638,7 +2638,7 @@
       "properties": {
         "id": "zattoo",
         "name": "Zattoo",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.47399,
         "lat": 13.4574199,
         "address": "Sonnenallee 223 a, 12059 Berlin, Germany"
@@ -2653,7 +2653,7 @@
       "properties": {
         "id": "zenmate",
         "name": "ZenMate",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.5018616,
         "lat": 13.4112619,
         "address": "Ritterstraße 12-14, 10969 Berlin, Germany"
@@ -2668,7 +2668,7 @@
       "properties": {
         "id": "signavio",
         "name": "Signavio",
-        "industry": "Other"
+        "industry": "other"
       }
     },
     {
@@ -2676,7 +2676,7 @@
       "properties": {
         "id": "9cookies",
         "name": "9Cookies",
-        "industry": "Other",
+        "industry": "other",
         "lon": 52.5101723,
         "lat": 13.4013442,
         "address": "Axel-Springer-Straße 54B, 10117 Berlin, Germany"

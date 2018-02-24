@@ -1,6 +1,7 @@
 import React from "react";
-import ReactMapboxGl, { Marker, GeoJSONLayer } from "react-mapbox-gl";
+import ReactMapboxGl, { GeoJSONLayer } from "react-mapbox-gl";
 import geojson from "./geo.json";
+import { INDUSTRIES } from "./constants/industries";
 
 const Map = ReactMapboxGl({
   accessToken: "pk.eyJ1IjoibWFnZ28iLCJhIjoiYXdzWFR2cyJ9.ke0Vc_1-0TRvq0XhMuYKpA"
@@ -12,11 +13,33 @@ export default class App extends React.Component {
 
     this.state = {
       marker: null,
-      filter: null,
+      filters: [],
       filterVisible: false
     };
   }
+  onSelectFilter = e => {
+    const { filters } = this.state;
+    const { checked, value } = e.target;
+    if (checked) {
+      this.setState({
+        filters: [...filters, value]
+      });
+    } else {
+      this.setState({
+        filters: filters.filter(filter => filter !== value)
+      });
+    }
+  };
+
   render() {
+    const { filters, filterVisible } = this.state;
+    const filteredGeoJSON = {
+      ...geojson,
+      features: geojson.features.filter(
+        feature =>
+          filterVisible ? filters.includes(feature.properties.industry) : true
+      )
+    };
     return (
       <div>
         <div id="filters" className="filters">
@@ -41,159 +64,24 @@ export default class App extends React.Component {
                 />Filter ⛏
               </label>
             </li>
-            {this.state.filterVisible && (
-              <li>
-                <label htmlFor="eCommerce">
-                  <input
-                    onChange={() => this.setState({ filter: "eCommerce" })}
-                    id="eCommerce"
-                    type="checkbox"
-                  />🛒 eCommerce
-                </label>
-              </li>
-            )}
-            {this.state.filterVisible && (
-              <li>
-                <label htmlFor="AdTech">
-                  <input
-                    onChange={() => this.setState({ filter: "AdTech" })}
-                    id="AdTech"
-                    type="checkbox"
-                  />📰 AdTech
-                </label>
-              </li>
-            )}
-            {this.state.filterVisible && (
-              <li>
-                <label htmlFor="FinTech">
-                  <input
-                    onChange={() => this.setState({ filter: "FinTech" })}
-                    id="FinTech"
-                    type="checkbox"
-                  />💸 FinTech
-                </label>
-              </li>
-            )}
-            {this.state.filterVisible && (
-              <li>
-                <label htmlFor="Retail">
-                  <input
-                    onChange={() => this.setState({ filter: "Retail" })}
-                    id="Retail"
-                    type="checkbox"
-                  />🛍 Retail
-                </label>
-              </li>
-            )}
-            {this.state.filterVisible && (
-              <li>
-                <label htmlFor="Games">
-                  <input
-                    onChange={() => this.setState({ filter: "Games" })}
-                    id="Games"
-                    type="checkbox"
-                  />🎮 Games
-                </label>
-              </li>
-            )}
-            {this.state.filterVisible && (
-              <li>
-                <label htmlFor="Food Delivery">
-                  <input
-                    onChange={() => this.setState({ filter: "Food Delivery" })}
-                    id="Food Delivery"
-                    type="checkbox"
-                  />🍕 Food Delivery
-                </label>
-              </li>
-            )}
-            {this.state.filterVisible && (
-              <li>
-                <label htmlFor="Travel">
-                  <input
-                    onChange={() => this.setState({ filter: "Travel" })}
-                    id="Travel"
-                    type="checkbox"
-                  />✈️ Travel
-                </label>
-              </li>
-            )}
-            {this.state.filterVisible && (
-              <li>
-                <label htmlFor="Real Estate">
-                  <input
-                    onChange={() => this.setState({ filter: "Real Estate" })}
-                    id="Real Estate"
-                    type="checkbox"
-                  />🏠 Real Estate
-                </label>
-              </li>
-            )}
-            {this.state.filterVisible && (
-              <li>
-                <label htmlFor="EduTech">
-                  <input
-                    onChange={() => this.setState({ filter: "EduTech" })}
-                    id="EduTech"
-                    type="checkbox"
-                  />🎓 EduTech
-                </label>
-              </li>
-            )}
-            {this.state.filterVisible && (
-              <li>
-                <label htmlFor="Health">
-                  <input
-                    onChange={() => this.setState({ filter: "Health" })}
-                    id="Health"
-                    type="checkbox"
-                  />❤️ Health
-                </label>
-              </li>
-            )}
-            {this.state.filterVisible && (
-              <li>
-                <label htmlFor="Service">
-                  <input
-                    onChange={() => this.setState({ filter: "Service" })}
-                    id="Service"
-                    type="checkbox"
-                  />💁 Service
-                </label>
-              </li>
-            )}
-            {this.state.filterVisible && (
-              <li>
-                <label htmlFor="HR">
-                  <input
-                    onChange={() => this.setState({ filter: "HR" })}
-                    id="HR"
-                    type="checkbox"
-                  />💼 HR
-                </label>
-              </li>
-            )}
-            {this.state.filterVisible && (
-              <li>
-                <label htmlFor="Music">
-                  <input
-                    onChange={() => this.setState({ filter: "Music" })}
-                    id="Music"
-                    type="checkbox"
-                  />🎧 Music
-                </label>
-              </li>
-            )}
-            {this.state.filterVisible && (
-              <li>
-                <label htmlFor="Other">
-                  <input
-                    onChange={() => this.setState({ filter: "Other" })}
-                    id="Other"
-                    type="checkbox"
-                  />🤷 Other
-                </label>
-              </li>
+            {Object.entries(INDUSTRIES).map(
+              ([id, industry]) =>
+                this.state.filterVisible && (
+                  <li key={id}>
+                    <label htmlFor={id}>
+                      <input
+                        onChange={this.onSelectFilter}
+                        id={id}
+                        type="checkbox"
+                        value={id}
+                      />
+                      <span role="img" aria-hidden>
+                        {industry.icon}
+                      </span>
+                      {industry.label}
+                    </label>
+                  </li>
+                )
             )}
           </ul>
         </div>
@@ -207,7 +95,7 @@ export default class App extends React.Component {
           }}
         >
           <GeoJSONLayer
-            data={geojson}
+            data={filteredGeoJSON}
             symbolLayout={{
               "text-field": "{name}",
               "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
