@@ -15,5 +15,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "request": "2.83.0",
+    "slug": "0.9.1"
   }
 }
