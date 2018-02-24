@@ -2,71 +2,71 @@ export const INDUSTRIES = {
   ecommerce: {
     label: "eCommerce",
     icon: "🛒",
-    color: "#FFF"
+    color: "#17a359"
   },
   adtech: {
     label: "AdTech",
     icon: "📰",
-    color: "#FFF"
+    color: "#ffbc05"
   },
   fintech: {
     label: "FinTech",
     icon: "💸",
-    color: "#FFF"
+    color: "#084788"
   },
   retail: {
     label: "Retail",
     icon: "🛍",
-    color: "#FFF"
+    color: "#f5d76e"
   },
   games: {
     label: "Games",
     icon: "🎮",
-    color: "#FFF"
+    color: "#22a7f0"
   },
   fooddelivery: {
     label: "Food Delivery",
     icon: "🍕",
-    color: "#FFF"
+    color: "#d61f1f"
   },
   travel: {
     label: "Travel",
     icon: "✈️",
-    color: "#FFF"
+    color: "#e86716"
   },
   realestate: {
     label: "Real Estate",
     icon: "🏠",
-    color: "#FFF"
+    color: "#1ba39c"
   },
   edutech: {
     label: "eduTech",
     icon: "🎓",
-    color: "#FFF"
+    color: "#47049f"
   },
   health: {
     label: "Health",
     icon: "❤️",
-    color: "#FFF"
+    color: "#d2527f"
   },
   service: {
     label: "Service",
     icon: "💁",
-    color: "#FFF"
+    color: "#ff936c"
   },
   hr: {
     label: "HR",
     icon: "💼",
-    color: "#FFF"
+    color: "#674172"
   },
   music: {
     label: "Music",
     icon: "🎧",
-    color: "#FFF"
+    color: "#87d37c"
   },
   other: {
     label: "Other",
     icon: "🤷",
-    color: "#FFF"
+    color: "#5c5e63"
   }
 };
